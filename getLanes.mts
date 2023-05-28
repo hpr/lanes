@@ -49,7 +49,7 @@ type LaneInfo = {
 const laneInfos: LaneInfo[] = [];
 let prevPageItems: TextItem[] = [];
 for (let pageNo = PAGE_START; pageNo <= PAGE_END; pageNo++) {
-  // if (pageNo !== 114) continue; // 106, 116, 111 (wrap), 114
+  // if (pageNo !== 112) continue; // 106, 116, 111 (wrap), 114, 112
   const page = await doc.getPage(pageNo);
   const { items } = (await page.getTextContent()) as { items: TextItem[] };
   const header = items
@@ -63,7 +63,7 @@ for (let pageNo = PAGE_START; pageNo <= PAGE_END; pageNo++) {
     const sex = header.includes('WOMEN') ? 'F' : 'M';
     const lanes = items.filter((item) => item.str.match(/\|\d\|/));
     const places = items.filter((item) => item.str.match(/^\(?=?\d,\)?$/));
-    const times = items.filter((item) => item.str.match(/^[\d\.:]+$/) || item.str === 'DQ' || item.str === 'DNF' || item.str === 'DNS');
+    const times = items.filter((item) => item.str.length >= 4 && item.str.match(/^[\d\.:]+$/) || item.str === 'DQ' || item.str === 'DNF' || item.str === 'DNS');
     const champs = items.filter(isChamp);
     for (const lane of lanes) {
       const xPos = lane.transform[X];
