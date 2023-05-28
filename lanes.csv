@@ -39,7 +39,7 @@ lane,place,time,champs,sex,event,page
 8,6,20.51,Gothenburg 1995,M,200m,108
 1,7,20.67,Gothenburg 1995,M,200m,108
 2,8,20.77,Gothenburg 1995,M,200m,108
-3,1,20.23,Athens 1997,M,200m,108
+3,1,9.68,Athens 1997,M,200m,108
 4,2,20.23,Athens 1997,M,200m,108
 5,3,20.26,Athens 1997,M,200m,108
 6,4,20.31,Athens 1997,M,200m,108
@@ -48,13 +48,13 @@ lane,place,time,champs,sex,event,page
 1,7,20.44,Athens 1997,M,200m,108
 8,8,20.44,Athens 1997,M,200m,108
 3,1,19.90,Seville 1999,M,200m,109
-6,2,19.90,Seville 1999,M,200m,109
-4,3,19.90,Seville 1999,M,200m,109
-7,4,19.90,Seville 1999,M,200m,109
-5,5,19.90,Seville 1999,M,200m,109
-8,6,19.90,Seville 1999,M,200m,109
-1,7,19.90,Seville 1999,M,200m,109
-2,7,19.90,Seville 1999,M,200m,109
+6,2,20.00,Seville 1999,M,200m,109
+4,3,20.11,Seville 1999,M,200m,109
+7,4,20.23,Seville 1999,M,200m,109
+5,5,20.30,Seville 1999,M,200m,109
+8,6,20.37,Seville 1999,M,200m,109
+1,7,20.48,Seville 1999,M,200m,109
+2,7,20.48,Seville 1999,M,200m,109
 4,1,20.04,Edmonton 2001,M,200m,109
 3,2,20.20,Edmonton 2001,M,200m,109
 1,3,20.20,Edmonton 2001,M,200m,109
@@ -102,7 +102,7 @@ lane,place,time,champs,sex,event,page
 5,5,20.29,Daegu 2011,M,200m,112
 2,6,20.31,Daegu 2011,M,200m,112
 1,7,20.34,Daegu 2011,M,200m,112
-7,7,DNF,Daegu 2011,M,200m,112
+7,7,20.34,Daegu 2011,M,200m,112
 4,1,19.66,Moscow 2013,M,200m,112
 8,2,19.79,Moscow 2013,M,200m,112
 3,3,20.04,Moscow 2013,M,200m,112
@@ -111,11 +111,11 @@ lane,place,time,champs,sex,event,page
 7,6,20.14,Moscow 2013,M,200m,112
 1,7,20.35,Moscow 2013,M,200m,112
 2,8,20.37,Moscow 2013,M,200m,112
-6,1,20.42,Beijing 2015,M,200m,112
-4,2,20.42,Beijing 2015,M,200m,112
-7,3,20.42,Beijing 2015,M,200m,112
-9,4,20.42,Beijing 2015,M,200m,112
-5,5,20.42,Beijing 2015,M,200m,112
+6,1,19.55,Beijing 2015,M,200m,112
+4,2,19.74,Beijing 2015,M,200m,112
+7,3,19.87,Beijing 2015,M,200m,112
+9,4,19.87,Beijing 2015,M,200m,112
+5,5,20.02,Beijing 2015,M,200m,112
 3,6,20.11,Beijing 2015,M,200m,112
 2,7,20.27,Beijing 2015,M,200m,112
 8,8,20.33,Beijing 2015,M,200m,112
@@ -197,7 +197,7 @@ lane,place,time,champs,sex,event,page
 1,4,45.13,Edmonton 2001,M,400m,117
 2,5,45.23,Edmonton 2001,M,400m,117
 8,6,46.23,Edmonton 2001,M,400m,117
-3,4,DNF,Edmonton 2001,M,400m,117
+3,4,DQ,Edmonton 2001,M,400m,117
 7,4,DQ,Edmonton 2001,M,400m,117
 4,1,44.77,Paris 2003,M,400m,117
 5,2,44.79,Paris 2003,M,400m,117
@@ -262,7 +262,7 @@ lane,place,time,champs,sex,event,page
 5,5,44.88,London 2017,M,400m,120
 8,6,45.04,London 2017,M,400m,120
 2,7,45.23,London 2017,M,400m,120
-7,7,DNS,London 2017,M,400m,120
+7,7,45.23,London 2017,M,400m,120
 4,1,43.48,Doha 2019,M,400m,120
 8,2,44.15,Doha 2019,M,400m,120
 5,3,44.17,Doha 2019,M,400m,120
@@ -334,7 +334,7 @@ lane,place,time,champs,sex,event,page
 6,5,48.54,Edmonton 2001,M,400mH,168
 7,6,48.57,Edmonton 2001,M,400mH,168
 8,7,49.07,Edmonton 2001,M,400mH,168
-2,7,DQ,Edmonton 2001,M,400mH,168
+2,7,49.07,Edmonton 2001,M,400mH,168
 5,1,47.25,Paris 2003,M,400mH,168
 6,2,48.18,Paris 2003,M,400mH,168
 4,3,48.24,Paris 2003,M,400mH,168
@@ -350,7 +350,7 @@ lane,place,time,champs,sex,event,page
 8,5,48.28,Helsinki 2005,M,400mH,169
 4,6,48.54,Helsinki 2005,M,400mH,169
 5,7,50.18,Helsinki 2005,M,400mH,169
-2,7,DNF,Helsinki 2005,M,400mH,169
+2,7,50.18,Helsinki 2005,M,400mH,169
 4,1,47.61,Osaka 2007,M,400mH,169
 5,2,48.01,Osaka 2007,M,400mH,169
 7,3,48.12,Osaka 2007,M,400mH,169
@@ -358,7 +358,7 @@ lane,place,time,champs,sex,event,page
 9,5,48.59,Osaka 2007,M,400mH,169
 2,6,49.25,Osaka 2007,M,400mH,169
 8,7,52.97,Osaka 2007,M,400mH,169
-3,7,DNF,Osaka 2007,M,400mH,169
+3,7,52.97,Osaka 2007,M,400mH,169
 3,1,47.91,Berlin 2009,M,400mH,169
 8,2,48.09,Berlin 2009,M,400mH,169
 5,3,48.23,Berlin 2009,M,400mH,169
@@ -444,7 +444,7 @@ lane,place,time,champs,sex,event,page
 8,5,39.33,Gothenburg 1995,M,4x100m,245
 1,6,39.35,Gothenburg 1995,M,4x100m,245
 7,7,39.39,Gothenburg 1995,M,4x100m,245
-2,7,DQ,Gothenburg 1995,M,4x100m,245
+2,7,39.39,Gothenburg 1995,M,4x100m,245
 8,1,37.86,Athens 1997,M,4x100m,246
 3,2,38.07,Athens 1997,M,4x100m,246
 5,3,38.14,Athens 1997,M,4x100m,246
@@ -452,7 +452,7 @@ lane,place,time,champs,sex,event,page
 4,5,38.26,Athens 1997,M,4x100m,246
 2,6,38.48,Athens 1997,M,4x100m,246
 7,7,38.72,Athens 1997,M,4x100m,246
-1,7,DQ,Athens 1997,M,4x100m,246
+1,7,38.72,Athens 1997,M,4x100m,246
 5,1,37.59,Seville 1999,M,4x100m,247
 3,2,37.73,Seville 1999,M,4x100m,247
 4,3,38.05,Seville 1999,M,4x100m,247
@@ -467,15 +467,15 @@ lane,place,time,champs,sex,event,page
 3,4,38.96,Edmonton 2001,M,4x100m,247
 2,5,39.18,Edmonton 2001,M,4x100m,247
 1,6,39.71,Edmonton 2001,M,4x100m,247
-6,6,DNF,Edmonton 2001,M,4x100m,247
-4,6,DQ,Edmonton 2001,M,4x100m,247
+6,6,39.71,Edmonton 2001,M,4x100m,247
+4,6,39.71,Edmonton 2001,M,4x100m,247
 6,1,38.06,Paris 2003,M,4x100m,248
 4,2,38.26,Paris 2003,M,4x100m,248
 7,3,38.87,Paris 2003,M,4x100m,248
 8,4,38.89,Paris 2003,M,4x100m,248
 2,5,38.89,Paris 2003,M,4x100m,248
 1,6,39.05,Paris 2003,M,4x100m,248
-3,2,DNF,Paris 2003,M,4x100m,248
+3,2,DQ,Paris 2003,M,4x100m,248
 5,2,DQ,Paris 2003,M,4x100m,248
 4,1,38.08,Helsinki 2005,M,4x100m,249
 3,2,38.10,Helsinki 2005,M,4x100m,249
@@ -491,8 +491,8 @@ lane,place,time,champs,sex,event,page
 6,4,37.99,Osaka 2007,M,4x100m,249
 8,5,38.03,Osaka 2007,M,4x100m,249
 9,6,38.62,Osaka 2007,M,4x100m,249
-3,6,DNF,Osaka 2007,M,4x100m,249
-2,6,DNF,Osaka 2007,M,4x100m,249
+3,6,38.62,Osaka 2007,M,4x100m,249
+2,6,38.62,Osaka 2007,M,4x100m,249
 7,1,37.31,Berlin 2009,M,4x100m,250
 6,2,37.62,Berlin 2009,M,4x100m,250
 3,3,38.02,Berlin 2009,M,4x100m,250
@@ -507,8 +507,8 @@ lane,place,time,champs,sex,event,page
 7,4,38.50,Daegu 2011,M,4x100m,250
 2,5,38.96,Daegu 2011,M,4x100m,250
 5,6,39.01,Daegu 2011,M,4x100m,250
-3,6,DNF,Daegu 2011,M,4x100m,250
-4,6,DNF,Daegu 2011,M,4x100m,250
+3,6,39.01,Daegu 2011,M,4x100m,250
+4,6,39.01,Daegu 2011,M,4x100m,250
 5,1,37.36,Moscow 2013,M,4x100m,251
 4,2,37.66,Moscow 2013,M,4x100m,251
 7,3,37.92,Moscow 2013,M,4x100m,251
@@ -516,15 +516,15 @@ lane,place,time,champs,sex,event,page
 2,5,38.37,Moscow 2013,M,4x100m,251
 8,6,38.39,Moscow 2013,M,4x100m,251
 1,7,38.57,Moscow 2013,M,4x100m,251
-6,7,DQ,Moscow 2013,M,4x100m,251
+6,7,38.57,Moscow 2013,M,4x100m,251
 4,1,37.36,Beijing 2015,M,4x100m,251
 9,2,38.01,Beijing 2015,M,4x100m,251
 3,3,38.13,Beijing 2015,M,4x100m,251
 8,4,38.15,Beijing 2015,M,4x100m,251
 5,5,38.23,Beijing 2015,M,4x100m,251
 2,6,38.61,Beijing 2015,M,4x100m,251
-7,6,DNF,Beijing 2015,M,4x100m,251
-6,6,DQ,Beijing 2015,M,4x100m,251
+7,6,38.61,Beijing 2015,M,4x100m,251
+6,6,38.61,Beijing 2015,M,4x100m,251
 7,1,37.47,London 2017,M,4x100m,252
 4,2,37.52,London 2017,M,4x100m,252
 9,3,38.04,London 2017,M,4x100m,252
@@ -532,15 +532,15 @@ lane,place,time,champs,sex,event,page
 6,5,38.48,London 2017,M,4x100m,252
 2,6,38.59,London 2017,M,4x100m,252
 3,7,38.73,London 2017,M,4x100m,252
-5,7,DNF,London 2017,M,4x100m,252
-8,1,9.60,Doha 2019,M,4x100m,252
-7,2,9.60,Doha 2019,M,4x100m,252
-4,3,9.60,Doha 2019,M,4x100m,252
-6,4,9.60,Doha 2019,M,4x100m,252
+5,7,38.73,London 2017,M,4x100m,252
+8,1,37.10,Doha 2019,M,4x100m,252
+7,2,37.36,Doha 2019,M,4x100m,252
+4,3,37.43,Doha 2019,M,4x100m,252
+6,4,37.72,Doha 2019,M,4x100m,252
 5,5,37.73,Doha 2019,M,4x100m,252
 9,6,38.07,Doha 2019,M,4x100m,252
-2,6,DNF,Doha 2019,M,4x100m,252
-3,6,DQ,Doha 2019,M,4x100m,252
+2,6,38.07,Doha 2019,M,4x100m,252
+3,6,38.07,Doha 2019,M,4x100m,252
 6,1,22.13,Helsinki 1983,F,200m,274
 7,2,22.19,Helsinki 1983,F,200m,274
 3,3,22.37,Helsinki 1983,F,200m,274
@@ -580,7 +580,7 @@ lane,place,time,champs,sex,event,page
 2,5,22.66,Gothenburg 1995,F,200m,275
 8,6,22.71,Gothenburg 1995,F,200m,275
 1,7,22.84,Gothenburg 1995,F,200m,275
-6,7,DQ,Gothenburg 1995,F,200m,275
+6,7,22.84,Gothenburg 1995,F,200m,275
 5,1,22.32,Athens 1997,F,200m,276
 4,2,22.39,Athens 1997,F,200m,276
 3,3,22.40,Athens 1997,F,200m,276
@@ -652,7 +652,7 @@ lane,place,time,champs,sex,event,page
 1,5,22.78,Moscow 2013,F,200m,279
 2,6,22.81,Moscow 2013,F,200m,279
 8,7,22.84,Moscow 2013,F,200m,279
-3,7,DNF,Moscow 2013,F,200m,279
+3,7,22.84,Moscow 2013,F,200m,279
 6,1,21.63,Beijing 2015,F,200m,279
 5,2,21.66,Beijing 2015,F,200m,279
 2,3,21.97,Beijing 2015,F,200m,279
@@ -675,7 +675,7 @@ lane,place,time,champs,sex,event,page
 5,4,22.59,Doha 2019,F,200m,280
 8,5,22.63,Doha 2019,F,200m,280
 2,6,22.71,Doha 2019,F,200m,280
-3,6,22.77,Doha 2019,F,200m,280
+3,6,22.71,Doha 2019,F,200m,280
 3,1,47.99,Helsinki 1983,F,400m,281
 1,2,48.59,Helsinki 1983,F,400m,281
 4,3,49.19,Helsinki 1983,F,400m,281
@@ -707,7 +707,7 @@ lane,place,time,champs,sex,event,page
 2,5,50.91,Stuttgart 1993,F,400m,282
 1,6,51.22,Stuttgart 1993,F,400m,282
 7,7,51.40,Stuttgart 1993,F,400m,282
-8,7,DQ,Stuttgart 1993,F,400m,282
+8,7,51.40,Stuttgart 1993,F,400m,282
 6,1,49.28,Gothenburg 1995,F,400m,282
 5,2,49.96,Gothenburg 1995,F,400m,282
 3,3,50.00,Gothenburg 1995,F,400m,282
@@ -739,7 +739,7 @@ lane,place,time,champs,sex,event,page
 6,5,50.80,Edmonton 2001,F,400m,283
 2,6,50.93,Edmonton 2001,F,400m,283
 1,7,51.97,Edmonton 2001,F,400m,283
-8,7,DNF,Edmonton 2001,F,400m,283
+8,7,51.97,Edmonton 2001,F,400m,283
 3,1,48.89,Paris 2003,F,400m,284
 5,2,49.43,Paris 2003,F,400m,284
 6,3,49.95,Paris 2003,F,400m,284
@@ -987,7 +987,7 @@ lane,place,time,champs,sex,event,page
 3,5,43.35,Gothenburg 1995,F,4x100m,393
 1,6,44.46,Gothenburg 1995,F,4x100m,393
 8,7,44.61,Gothenburg 1995,F,4x100m,393
-4,7,DNF,Gothenburg 1995,F,4x100m,393
+4,7,44.61,Gothenburg 1995,F,4x100m,393
 5,1,41.47,Athens 1997,F,4x100m,394
 6,2,42.10,Athens 1997,F,4x100m,394
 4,3,42.21,Athens 1997,F,4x100m,394
@@ -1019,7 +1019,7 @@ lane,place,time,champs,sex,event,page
 8,5,43.27,Paris 2003,F,4x100m,395
 1,6,43.45,Paris 2003,F,4x100m,395
 2,7,43.47,Paris 2003,F,4x100m,395
-7,7,DNF,Paris 2003,F,4x100m,395
+7,7,43.47,Paris 2003,F,4x100m,395
 6,1,41.78,Helsinki 2005,F,4x100m,395
 4,2,41.99,Helsinki 2005,F,4x100m,395
 5,3,42.56,Helsinki 2005,F,4x100m,396
@@ -1058,16 +1058,16 @@ lane,place,time,champs,sex,event,page
 1,4,42.90,Moscow 2013,F,4x100m,397
 2,5,42.93,Moscow 2013,F,4x100m,397
 7,6,43.28,Moscow 2013,F,4x100m,397
-4,6,DQ,Moscow 2013,F,4x100m,397
-8,6,DNF,Moscow 2013,F,4x100m,397
+4,6,43.28,Moscow 2013,F,4x100m,397
+8,6,43.28,Moscow 2013,F,4x100m,397
 6,1,41.07,Beijing 2015,F,4x100m,398
 5,2,41.68,Beijing 2015,F,4x100m,398
 4,3,42.03,Beijing 2015,F,4x100m,398
 7,4,42.10,Beijing 2015,F,4x100m,398
 3,5,42.64,Beijing 2015,F,4x100m,398
 9,6,43.05,Beijing 2015,F,4x100m,398
-2,6,DQ,Beijing 2015,F,4x100m,398
-8,6,DQ,Beijing 2015,F,4x100m,398
+2,6,43.05,Beijing 2015,F,4x100m,398
+8,6,43.05,Beijing 2015,F,4x100m,398
 4,1,41.82,London 2017,F,4x100m,398
 5,2,42.12,London 2017,F,4x100m,398
 7,3,42.19,London 2017,F,4x100m,398
@@ -1083,7 +1083,7 @@ lane,place,time,champs,sex,event,page
 2,5,42.48,Doha 2019,F,4x100m,399
 5,6,42.71,Doha 2019,F,4x100m,399
 3,7,42.98,Doha 2019,F,4x100m,399
-8,7,DQ,Doha 2019,F,4x100m,399
+8,7,42.98,Doha 2019,F,4x100m,399
 4,1,10.71,"Rio de Janeiro, 13 Aug 2016",F,200m,100
 5,2,10.83,"Rio de Janeiro, 13 Aug 2016",F,200m,100
 6,3,10.86,"Rio de Janeiro, 13 Aug 2016",F,200m,100
@@ -1092,12 +1092,6 @@ lane,place,time,champs,sex,event,page
 8,6,10.92,"Rio de Janeiro, 13 Aug 2016",F,200m,100
 7,7,10.94,"Rio de Janeiro, 13 Aug 2016",F,200m,100
 2,8,11.80,"Rio de Janeiro, 13 Aug 2016",F,200m,100
-1,1,0.00,"London, 6 Aug 1948",F,200m,100
-4,2,0.00,"London, 6 Aug 1948",F,200m,100
-5,3,0.00,"London, 6 Aug 1948",F,200m,100
-2,4,0.00,"London, 6 Aug 1948",F,200m,100
-3,5,0.00,"London, 6 Aug 1948",F,200m,100
-6,6,0.00,"London, 6 Aug 1948",F,200m,100
 2,1,23.7,"Helsinki, 26 Jul 1952",F,200m,101
 3,2,24.2,"Helsinki, 26 Jul 1952",F,200m,101
 6,3,24.2,"Helsinki, 26 Jul 1952",F,200m,101
@@ -1165,13 +1159,13 @@ lane,place,time,champs,sex,event,page
 6,7,22.78,"Los Angeles, 9 Aug 1984",F,200m,102
 1,8,22.86,"Los Angeles, 9 Aug 1984",F,200m,102
 5,1,21.34,"Seoul, 29 Sep 1988",F,200m,102
-6,2,6.29,"Seoul, 29 Sep 1988",F,200m,102
-1,3,6.29,"Seoul, 29 Sep 1988",F,200m,102
-3,4,6.29,"Seoul, 29 Sep 1988",F,200m,102
-4,5,6.29,"Seoul, 29 Sep 1988",F,200m,102
-8,6,6.29,"Seoul, 29 Sep 1988",F,200m,102
-2,7,6.29,"Seoul, 29 Sep 1988",F,200m,102
-7,8,6.29,"Seoul, 29 Sep 1988",F,200m,102
+6,2,21.72,"Seoul, 29 Sep 1988",F,200m,102
+1,3,21.95,"Seoul, 29 Sep 1988",F,200m,102
+3,4,21.99,"Seoul, 29 Sep 1988",F,200m,102
+4,5,22.09,"Seoul, 29 Sep 1988",F,200m,102
+8,6,22.17,"Seoul, 29 Sep 1988",F,200m,102
+2,7,22.33,"Seoul, 29 Sep 1988",F,200m,102
+7,8,22.42,"Seoul, 29 Sep 1988",F,200m,102
 6,1,21.81,"Barcelona, 6 Aug 1992",F,200m,102
 4,2,22.02,"Barcelona, 6 Aug 1992",F,200m,102
 5,3,22.09,"Barcelona, 6 Aug 1992",F,200m,102
@@ -1184,7 +1178,7 @@ lane,place,time,champs,sex,event,page
 5,2,22.24,"Atlanta, 1 Aug 1996",F,200m,103
 4,3,22.38,"Atlanta, 1 Aug 1996",F,200m,103
 7,4,22.41,"Atlanta, 1 Aug 1996",F,200m,103
-6,6,22.45,"Atlanta, 1 Aug 1996",F,200m,103
+6,6,22.54,"Atlanta, 1 Aug 1996",F,200m,103
 8,6,22.54,"Atlanta, 1 Aug 1996",F,200m,103
 1,7,22.60,"Atlanta, 1 Aug 1996",F,200m,103
 2,8,22.61,"Atlanta, 1 Aug 1996",F,200m,103
@@ -1255,11 +1249,11 @@ lane,place,time,champs,sex,event,page
 4,1,49.28,"Montreal, 29 Jul 1976",F,400m,105
 2,2,50.51,"Montreal, 29 Jul 1976",F,400m,105
 8,3,50.55,"Montreal, 29 Jul 1976",F,400m,105
-1,4,35.4,"Montreal, 29 Jul 1976",F,400m,105
-7,5,35.4,"Montreal, 29 Jul 1976",F,400m,105
-3,6,35.4,"Montreal, 29 Jul 1976",F,400m,105
-6,7,35.4,"Montreal, 29 Jul 1976",F,400m,105
-5,8,35.4,"Montreal, 29 Jul 1976",F,400m,105
+1,4,50.56,"Montreal, 29 Jul 1976",F,400m,105
+7,5,50.65,"Montreal, 29 Jul 1976",F,400m,105
+3,6,50.90,"Montreal, 29 Jul 1976",F,400m,105
+6,7,50.98,"Montreal, 29 Jul 1976",F,400m,105
+5,8,51.66,"Montreal, 29 Jul 1976",F,400m,105
 4,1,48.88,"Moscow, 28 Jul 1980",F,400m,105
 6,2,49.46,"Moscow, 28 Jul 1980",F,400m,105
 5,3,49.66,"Moscow, 28 Jul 1980",F,400m,105
@@ -1277,69 +1271,69 @@ lane,place,time,champs,sex,event,page
 3,7,50.45,"Los Angeles, 6 Aug 1984",F,400m,106
 4,8,51.56,"Los Angeles, 6 Aug 1984",F,400m,106
 3,1,48.65,"Seoul, 26 Sep 1988",F,400m,106
-6,2,11.94,"Seoul, 26 Sep 1988",F,400m,106
-4,3,11.94,"Seoul, 26 Sep 1988",F,400m,106
-1,4,11.94,"Seoul, 26 Sep 1988",F,400m,106
-5,5,11.94,"Seoul, 26 Sep 1988",F,400m,106
-8,6,11.94,"Seoul, 26 Sep 1988",F,400m,106
-7,7,11.94,"Seoul, 26 Sep 1988",F,400m,106
-2,8,11.94,"Seoul, 26 Sep 1988",F,400m,106
+6,2,49.45,"Seoul, 26 Sep 1988",F,400m,106
+4,3,49.90,"Seoul, 26 Sep 1988",F,400m,106
+1,4,50.16,"Seoul, 26 Sep 1988",F,400m,106
+5,5,50.72,"Seoul, 26 Sep 1988",F,400m,106
+8,6,51.12,"Seoul, 26 Sep 1988",F,400m,106
+7,7,51.17,"Seoul, 26 Sep 1988",F,400m,106
+2,8,51.25,"Seoul, 26 Sep 1988",F,400m,106
 5,1,48.83,"Barcelona, 5 Aug 1992",F,400m,106
 3,2,49.05,"Barcelona, 5 Aug 1992",F,400m,106
 5,3,49.64,"Barcelona, 5 Aug 1992",F,400m,106
-8,4,35.5,"Barcelona, 5 Aug 1992",F,400m,106
-4,5,35.5,"Barcelona, 5 Aug 1992",F,400m,106
-1,6,35.5,"Barcelona, 5 Aug 1992",F,400m,106
-2,7,35.5,"Barcelona, 5 Aug 1992",F,400m,106
-7,8,35.5,"Barcelona, 5 Aug 1992",F,400m,106
+8,4,49.69,"Barcelona, 5 Aug 1992",F,400m,106
+4,5,49.93,"Barcelona, 5 Aug 1992",F,400m,106
+1,6,50.11,"Barcelona, 5 Aug 1992",F,400m,106
+2,7,50.19,"Barcelona, 5 Aug 1992",F,400m,106
+7,8,50.87,"Barcelona, 5 Aug 1992",F,400m,106
 3,1,48.25,"Atlanta, 29 Jul 1996",F,400m,106
-4,2,35.0,"Atlanta, 29 Jul 1996",F,400m,106
-5,3,35.0,"Atlanta, 29 Jul 1996",F,400m,106
-2,4,35.0,"Atlanta, 29 Jul 1996",F,400m,106
-8,5,35.0,"Atlanta, 29 Jul 1996",F,400m,106
-6,6,35.0,"Atlanta, 29 Jul 1996",F,400m,106
-7,7,35.0,"Atlanta, 29 Jul 1996",F,400m,106
-1,8,35.0,"Atlanta, 29 Jul 1996",F,400m,106
+4,2,48.63,"Atlanta, 29 Jul 1996",F,400m,106
+5,3,49.10,"Atlanta, 29 Jul 1996",F,400m,106
+2,4,49.28,"Atlanta, 29 Jul 1996",F,400m,106
+8,5,49.55,"Atlanta, 29 Jul 1996",F,400m,106
+6,6,49.77,"Atlanta, 29 Jul 1996",F,400m,106
+7,7,50.45,"Atlanta, 29 Jul 1996",F,400m,106
+1,8,50.71,"Atlanta, 29 Jul 1996",F,400m,106
 6,1,49.11,"Sydney, 25 Sep 2000",F,400m,106
 4,2,49.58,"Sydney, 25 Sep 2000",F,400m,106
 3,3,49.72,"Sydney, 25 Sep 2000",F,400m,106
-2,4,12.30,"Sydney, 25 Sep 2000",F,400m,107
-5,5,12.30,"Sydney, 25 Sep 2000",F,400m,107
-7,6,12.30,"Sydney, 25 Sep 2000",F,400m,107
-8,7,12.30,"Sydney, 25 Sep 2000",F,400m,107
-1,8,12.30,"Sydney, 25 Sep 2000",F,400m,107
+2,4,49.79,"Sydney, 25 Sep 2000",F,400m,107
+5,5,49.96,"Sydney, 25 Sep 2000",F,400m,107
+7,6,50.05,"Sydney, 25 Sep 2000",F,400m,107
+8,7,50.12,"Sydney, 25 Sep 2000",F,400m,107
+1,8,51.04,"Sydney, 25 Sep 2000",F,400m,107
 4,1,49.41,"Athens, 23 Aug 2004",F,400m,107
-3,2,12.0,"Athens, 23 Aug 2004",F,400m,107
-6,3,12.0,"Athens, 23 Aug 2004",F,400m,107
-5,4,12.0,"Athens, 23 Aug 2004",F,400m,107
-1,5,12.0,"Athens, 23 Aug 2004",F,400m,107
-2,6,12.0,"Athens, 23 Aug 2004",F,400m,107
-8,7,12.0,"Athens, 23 Aug 2004",F,400m,107
-7,8,12.0,"Athens, 23 Aug 2004",F,400m,107
+3,2,49.56,"Athens, 23 Aug 2004",F,400m,107
+6,3,49.89,"Athens, 23 Aug 2004",F,400m,107
+5,4,49.97,"Athens, 23 Aug 2004",F,400m,107
+1,5,50.00,"Athens, 23 Aug 2004",F,400m,107
+2,6,50.19,"Athens, 23 Aug 2004",F,400m,107
+8,7,50.37,"Athens, 23 Aug 2004",F,400m,107
+7,8,50.65,"Athens, 23 Aug 2004",F,400m,107
 4,1,49.62,"Beijing, 21 Aug 2008",F,400m,107
 6,2,49.69,"Beijing, 21 Aug 2008",F,400m,107
 7,3,49.93,"Beijing, 21 Aug 2008",F,400m,107
 5,4,50.01,"Beijing, 21 Aug 2008",F,400m,107
 2,5,50.68,"Beijing, 21 Aug 2008",F,400m,107
-8,6,12.4,"Beijing, 21 Aug 2008",F,400m,107
-9,5,12.4,"Beijing, 21 Aug 2008",F,400m,107
-3,6,12.4,"Beijing, 21 Aug 2008",F,400m,107
+8,6,51.18,"Beijing, 21 Aug 2008",F,400m,107
+9,5,DQ,"Beijing, 21 Aug 2008",F,400m,107
+3,6,DQ,"Beijing, 21 Aug 2008",F,400m,107
 6,1,49.55,"London, 5 Aug 2012",F,400m,107
 8,2,49.70,"London, 5 Aug 2012",F,400m,107
 4,3,49.72,"London, 5 Aug 2012",F,400m,107
 7,4,49.75,"London, 5 Aug 2012",F,400m,108
-2,5,11.9,"London, 5 Aug 2012",F,400m,108
-9,6,11.9,"London, 5 Aug 2012",F,400m,108
-3,7,11.9,"London, 5 Aug 2012",F,400m,108
-5,6,11.9,"London, 5 Aug 2012",F,400m,108
+2,5,50.11,"London, 5 Aug 2012",F,400m,108
+9,6,50.33,"London, 5 Aug 2012",F,400m,108
+3,7,50.79,"London, 5 Aug 2012",F,400m,108
+5,6,DQ,"London, 5 Aug 2012",F,400m,108
 7,1,49.44,"Rio de Janeiro, 15 Aug 2016",F,400m,108
 4,2,49.51,"Rio de Janeiro, 15 Aug 2016",F,400m,108
 5,3,49.85,"Rio de Janeiro, 15 Aug 2016",F,400m,108
 6,4,50.34,"Rio de Janeiro, 15 Aug 2016",F,400m,108
-3,5,11.8,"Rio de Janeiro, 15 Aug 2016",F,400m,108
-8,6,11.8,"Rio de Janeiro, 15 Aug 2016",F,400m,108
-2,7,11.8,"Rio de Janeiro, 15 Aug 2016",F,400m,108
-1,7,11.8,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+3,5,50.41,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+8,6,50.97,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+2,7,51.25,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+1,7,DQ,"Rio de Janeiro, 15 Aug 2016",F,400m,108
 6,1,12.48,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
 4,2,12.59,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
 7,3,12.61,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
@@ -1362,8 +1356,8 @@ lane,place,time,champs,sex,event,page
 7,4,53.69,"Seoul, 28 Sep 1988",F,400mH,130
 2,5,54.03,"Seoul, 28 Sep 1988",F,400mH,130
 8,6,54.04,"Seoul, 28 Sep 1988",F,400mH,130
-1,7,14.93,"Seoul, 28 Sep 1988",F,400mH,131
-4,8,14.93,"Seoul, 28 Sep 1988",F,400mH,131
+1,7,54.39,"Seoul, 28 Sep 1988",F,400mH,131
+4,8,55.32,"Seoul, 28 Sep 1988",F,400mH,131
 3,1,53.23,"Barcelona, 5 Aug 1992",F,400mH,131
 4,2,53.69,"Barcelona, 5 Aug 1992",F,400mH,131
 1,3,54.31,"Barcelona, 5 Aug 1992",F,400mH,131
@@ -1371,7 +1365,7 @@ lane,place,time,champs,sex,event,page
 5,5,54.83,"Barcelona, 5 Aug 1992",F,400mH,131
 6,6,54.83,"Barcelona, 5 Aug 1992",F,400mH,131
 7,7,55.58,"Barcelona, 5 Aug 1992",F,400mH,131
-2,7,DNF,"Barcelona, 5 Aug 1992",F,400mH,131
+2,7,55.58,"Barcelona, 5 Aug 1992",F,400mH,131
 5,1,52.82,"Atlanta, 31 Jul 1996",F,400mH,131
 6,2,53.08,"Atlanta, 31 Jul 1996",F,400mH,131
 4,3,53.22,"Atlanta, 31 Jul 1996",F,400mH,131
@@ -1420,30 +1414,6 @@ lane,place,time,champs,sex,event,page
 2,6,54.45,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
 8,7,54.56,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
 1,8,54.61,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
-1,1,48.4,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
-2,2,48.8,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
-6,3,49.0,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
-3,4,49.6,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
-5,5,49.8,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
-4,6,53.6,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
-4,1,46.9,"Los Angeles, 7 Aug 1932",F,4x100m,173
-3,2,47.0,"Los Angeles, 7 Aug 1932",F,4x100m,173
-5,3,47.6,"Los Angeles, 7 Aug 1932",F,4x100m,173
-2,4,47.7,"Los Angeles, 7 Aug 1932",F,4x100m,173
-1,5,47.7,"Los Angeles, 7 Aug 1932",F,4x100m,173
-6,6,47.7,"Los Angeles, 7 Aug 1932",F,4x100m,173
-3,1,46.9,"Berlin, 9 Aug 1936",F,4x100m,173
-1,2,47.6,"Berlin, 9 Aug 1936",F,4x100m,173
-5,3,47.8,"Berlin, 9 Aug 1936",F,4x100m,173
-2,4,48.7,"Berlin, 9 Aug 1936",F,4x100m,173
-6,5,48.8,"Berlin, 9 Aug 1936",F,4x100m,173
-4,5,DQ,"Berlin, 9 Aug 1936",F,4x100m,173
-6,1,47.5,"London, 7 Aug 1948",F,4x100m,173
-2,2,47.6,"London, 7 Aug 1948",F,4x100m,173
-3,3,47.8,"London, 7 Aug 1948",F,4x100m,173
-4,4,48.0,"London, 7 Aug 1948",F,4x100m,173
-7,5,48.2,"London, 7 Aug 1948",F,4x100m,173
-5,6,49.2,"London, 7 Aug 1948",F,4x100m,173
 4,1,45.9,"Helsinki, 27 Jul 1952",F,4x100m,173
 5,2,45.9,"Helsinki, 27 Jul 1952",F,4x100m,173
 6,3,46.2,"Helsinki, 27 Jul 1952",F,4x100m,173
@@ -1461,7 +1431,7 @@ lane,place,time,champs,sex,event,page
 7,3,45.0,"Rome, 8 Sep 1960",F,4x100m,174
 3,4,45.2,"Rome, 8 Sep 1960",F,4x100m,174
 6,5,45.6,"Rome, 8 Sep 1960",F,4x100m,174
-2,5,DQ,"Rome, 8 Sep 1960",F,4x100m,174
+2,5,45.6,"Rome, 8 Sep 1960",F,4x100m,174
 4,1,43.6,"Tokyo, 21 Oct 1964",F,4x100m,174
 5,2,43.9,"Tokyo, 21 Oct 1964",F,4x100m,174
 2,3,44.0,"Tokyo, 21 Oct 1964",F,4x100m,174
@@ -1486,14 +1456,14 @@ lane,place,time,champs,sex,event,page
 5,6,43.61,"Munich, 10 Sep 1972",F,4x100m,175
 1,7,43.71,"Munich, 10 Sep 1972",F,4x100m,175
 1,8,44.20,"Munich, 10 Sep 1972",F,4x100m,175
-8,1,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
-1,2,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
-7,3,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
-6,4,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
-4,5,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
-5,6,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
-2,7,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
-3,8,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
+8,1,42.55,"Montreal, 31 Jul 1976",F,4x100m,175
+1,2,42.59,"Montreal, 31 Jul 1976",F,4x100m,175
+7,3,43.09,"Montreal, 31 Jul 1976",F,4x100m,175
+6,4,43.17,"Montreal, 31 Jul 1976",F,4x100m,175
+4,5,43.18,"Montreal, 31 Jul 1976",F,4x100m,175
+5,6,43.24,"Montreal, 31 Jul 1976",F,4x100m,175
+2,7,43.35,"Montreal, 31 Jul 1976",F,4x100m,175
+3,8,43.79,"Montreal, 31 Jul 1976",F,4x100m,175
 8,1,41.60,"Moscow, 1 Aug 1980",F,4x100m,175
 1,2,42.10,"Moscow, 1 Aug 1980",F,4x100m,175
 7,3,42.43,"Moscow, 1 Aug 1980",F,4x100m,175
@@ -1501,15 +1471,15 @@ lane,place,time,champs,sex,event,page
 6,5,42.84,"Moscow, 1 Aug 1980",F,4x100m,175
 3,6,43.19,"Moscow, 1 Aug 1980",F,4x100m,175
 2,7,43.59,"Moscow, 1 Aug 1980",F,4x100m,175
-5,7,DNF,"Moscow, 1 Aug 1980",F,4x100m,175
+5,7,43.59,"Moscow, 1 Aug 1980",F,4x100m,175
 5,1,41.65,"Los Angeles, 11 Aug 1984",F,4x100m,175
 6,2,42.77,"Los Angeles, 11 Aug 1984",F,4x100m,175
 1,3,43.11,"Los Angeles, 11 Aug 1984",F,4x100m,175
 8,4,43.15,"Los Angeles, 11 Aug 1984",F,4x100m,175
 7,5,43.57,"Los Angeles, 11 Aug 1984",F,4x100m,175
-3,6,10.49,"Los Angeles, 11 Aug 1984",F,4x100m,175
-4,7,10.49,"Los Angeles, 11 Aug 1984",F,4x100m,175
-2,8,10.49,"Los Angeles, 11 Aug 1984",F,4x100m,175
+3,6,44.18,"Los Angeles, 11 Aug 1984",F,4x100m,175
+4,7,44.23,"Los Angeles, 11 Aug 1984",F,4x100m,175
+2,8,53.54,"Los Angeles, 11 Aug 1984",F,4x100m,175
 6,1,41.98,"Seoul, 1 Oct 1988",F,4x100m,175
 5,2,42.09,"Seoul, 1 Oct 1988",F,4x100m,175
 4,3,42.75,"Seoul, 1 Oct 1988",F,4x100m,175
@@ -1517,15 +1487,15 @@ lane,place,time,champs,sex,event,page
 7,5,43.02,"Seoul, 1 Oct 1988",F,4x100m,176
 8,6,43.93,"Seoul, 1 Oct 1988",F,4x100m,176
 1,7,44.02,"Seoul, 1 Oct 1988",F,4x100m,176
-2,7,10.70,"Seoul, 1 Oct 1988",F,4x100m,176
+2,7,44.02,"Seoul, 1 Oct 1988",F,4x100m,176
 3,1,42.11,"Barcelona, 8 Aug 1992",F,4x100m,176
 6,2,42.16,"Barcelona, 8 Aug 1992",F,4x100m,176
 4,3,42.81,"Barcelona, 8 Aug 1992",F,4x100m,176
 2,4,42.85,"Barcelona, 8 Aug 1992",F,4x100m,176
 7,5,43.12,"Barcelona, 8 Aug 1992",F,4x100m,176
 1,6,43.77,"Barcelona, 8 Aug 1992",F,4x100m,176
-5,6,DNF,"Barcelona, 8 Aug 1992",F,4x100m,176
-8,6,DNF,"Barcelona, 8 Aug 1992",F,4x100m,176
+5,6,43.77,"Barcelona, 8 Aug 1992",F,4x100m,176
+8,6,43.77,"Barcelona, 8 Aug 1992",F,4x100m,176
 5,1,41.95,"Atlanta, 3 Aug 1996",F,4x100m,176
 2,2,42.14,"Atlanta, 3 Aug 1996",F,4x100m,176
 6,3,42.24,"Atlanta, 3 Aug 1996",F,4x100m,176
@@ -1549,13 +1519,13 @@ lane,place,time,champs,sex,event,page
 1,5,42.94,"Athens, 27 Aug 2004",F,4x100m,177
 7,6,43.11,"Athens, 27 Aug 2004",F,4x100m,177
 8,7,43.42,"Athens, 27 Aug 2004",F,4x100m,177
-5,7,DQ,"Athens, 27 Aug 2004",F,4x100m,177
+5,7,43.42,"Athens, 27 Aug 2004",F,4x100m,177
 5,1,42.54,"Beijing, 22 Aug 2008",F,4x100m,177
 3,2,43.04,"Beijing, 22 Aug 2008",F,4x100m,177
 8,3,43.14,"Beijing, 22 Aug 2008",F,4x100m,177
 9,4,43.28,"Beijing, 22 Aug 2008",F,4x100m,177
-7,4,DNF,"Beijing, 22 Aug 2008",F,4x100m,177
-6,1,DNF,"Beijing, 22 Aug 2008",F,4x100m,177
+7,4,43.28,"Beijing, 22 Aug 2008",F,4x100m,177
+6,1,DQ,"Beijing, 22 Aug 2008",F,4x100m,177
 2,1,DQ,"Beijing, 22 Aug 2008",F,4x100m,177
 4,1,DQ,"Beijing, 22 Aug 2008",F,4x100m,177
 7,1,40.82,"London, 10 Aug 2012",F,4x100m,178
@@ -1565,7 +1535,7 @@ lane,place,time,champs,sex,event,page
 8,5,42.67,"London, 10 Aug 2012",F,4x100m,178
 9,6,42.70,"London, 10 Aug 2012",F,4x100m,178
 3,7,42.91,"London, 10 Aug 2012",F,4x100m,178
-4,7,DQ,"London, 10 Aug 2012",F,4x100m,178
+4,7,42.91,"London, 10 Aug 2012",F,4x100m,178
 1,1,41.01,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
 6,2,41.36,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
 5,3,41.77,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
@@ -1574,56 +1544,6 @@ lane,place,time,champs,sex,event,page
 2,6,43.15,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
 3,7,43.21,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
 8,6,DQ,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
-4,1,21.6,"St. Louis, 31 Aug 1904",M,200m,190
-3,2,21.6,"St. Louis, 31 Aug 1904",M,200m,190
-2,3,21.6,"St. Louis, 31 Aug 1904",M,200m,190
-1,4,21.6,"St. Louis, 31 Aug 1904",M,200m,190
-3,1,22.6,"London, 23 Jul 1908",M,200m,190
-4,2,22.6,"London, 23 Jul 1908",M,200m,190
-2,3,22.6,"London, 23 Jul 1908",M,200m,190
-1,4,22.6,"London, 23 Jul 1908",M,200m,190
-4,1,21.7,"Stockholm, 11 Jul 1912",M,200m,191
-6,2,21.8,"Stockholm, 11 Jul 1912",M,200m,191
-1,3,22.0,"Stockholm, 11 Jul 1912",M,200m,191
-5,4,22.0,"Stockholm, 11 Jul 1912",M,200m,191
-2,5,22.0,"Stockholm, 11 Jul 1912",M,200m,191
-3,6,22.0,"Stockholm, 11 Jul 1912",M,200m,191
-3,1,22.0,"Antwerp, 20 Aug 1920",M,200m,191
-4,2,22.0,"Antwerp, 20 Aug 1920",M,200m,191
-5,3,22.0,"Antwerp, 20 Aug 1920",M,200m,191
-6,4,22.0,"Antwerp, 20 Aug 1920",M,200m,191
-1,5,22.0,"Antwerp, 20 Aug 1920",M,200m,191
-2,6,22.0,"Antwerp, 20 Aug 1920",M,200m,191
-4,1,21.6,"Paris, 9 Jul 1924",M,200m,191
-6,2,21.6,"Paris, 9 Jul 1924",M,200m,191
-5,3,21.6,"Paris, 9 Jul 1924",M,200m,191
-1,4,21.6,"Paris, 9 Jul 1924",M,200m,191
-3,5,21.6,"Paris, 9 Jul 1924",M,200m,191
-2,6,21.6,"Paris, 9 Jul 1924",M,200m,191
-2,1,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
-3,2,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
-4,3,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
-5,4,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
-6,5,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
-1,6,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
-1,1,21.2,"Los Angeles, 3 Aug 1932",M,200m,191
-3,2,21.4,"Los Angeles, 3 Aug 1932",M,200m,191
-2,3,21.5,"Los Angeles, 3 Aug 1932",M,200m,191
-6,4,21.5,"Los Angeles, 3 Aug 1932",M,200m,191
-4,5,21.6,"Los Angeles, 3 Aug 1932",M,200m,191
-5,6,21.9,"Los Angeles, 3 Aug 1932",M,200m,191
-3,1,20.7,"Berlin, 5 Aug 1936",M,200m,191
-4,2,21.1,"Berlin, 5 Aug 1936",M,200m,191
-1,3,21.3,"Berlin, 5 Aug 1936",M,200m,191
-5,4,21.6,"Berlin, 5 Aug 1936",M,200m,191
-6,5,21.6,"Berlin, 5 Aug 1936",M,200m,191
-2,6,21.9,"Berlin, 5 Aug 1936",M,200m,191
-2,1,0.00,"London, 3 Aug 1948",M,200m,192
-4,2,0.00,"London, 3 Aug 1948",M,200m,192
-3,3,0.00,"London, 3 Aug 1948",M,200m,192
-1,4,0.00,"London, 3 Aug 1948",M,200m,192
-5,5,0.00,"London, 3 Aug 1948",M,200m,192
-6,6,0.00,"London, 3 Aug 1948",M,200m,192
 3,1,20.7,"Helsinki, 23 Jul 1952",M,200m,192
 7,2,20.8,"Helsinki, 23 Jul 1952",M,200m,192
 6,3,20.8,"Helsinki, 23 Jul 1952",M,200m,192
@@ -1636,7 +1556,7 @@ lane,place,time,champs,sex,event,page
 1,4,21.1,"Melbourne, 27 Nov 1956",M,200m,192
 2,5,21.2,"Melbourne, 27 Nov 1956",M,200m,192
 5,6,21.3,"Melbourne, 27 Nov 1956",M,200m,192
-5,1,20.6,"Rome, 3 Sep 1960",M,200m,192
+5,1,,"Rome, 3 Sep 1960",M,200m,192
 7,2,20.6,"Rome, 3 Sep 1960",M,200m,192
 3,3,20.7,"Rome, 3 Sep 1960",M,200m,192
 2,4,20.8,"Rome, 3 Sep 1960",M,200m,192
@@ -1729,15 +1649,15 @@ lane,place,time,champs,sex,event,page
 6,5,20.14,"Athens, 26 Aug 2004",M,200m,194
 7,6,20.24,"Athens, 26 Aug 2004",M,200m,194
 1,7,20.64,"Athens, 26 Aug 2004",M,200m,194
-2,7,DNS,"Athens, 26 Aug 2004",M,200m,194
+2,7,20.64,"Athens, 26 Aug 2004",M,200m,194
 5,1,19.30,"Beijing, 20 Aug 2008",M,200m,195
 4,2,19.96,"Beijing, 20 Aug 2008",M,200m,195
 8,3,19.98,"Beijing, 20 Aug 2008",M,200m,195
 6,4,20.22,"Beijing, 20 Aug 2008",M,200m,195
 3,5,20.40,"Beijing, 20 Aug 2008",M,200m,195
 2,6,20.59,"Beijing, 20 Aug 2008",M,200m,195
-7,6,DQ,"Beijing, 20 Aug 2008",M,200m,195
-9,6,DQ,"Beijing, 20 Aug 2008",M,200m,195
+7,6,20.59,"Beijing, 20 Aug 2008",M,200m,195
+9,6,20.59,"Beijing, 20 Aug 2008",M,200m,195
 7,1,19.32,"London, 9 Aug 2012",M,200m,195
 4,2,19.44,"London, 9 Aug 2012",M,200m,195
 8,3,19.84,"London, 9 Aug 2012",M,200m,195
@@ -1754,47 +1674,6 @@ lane,place,time,champs,sex,event,page
 5,6,20.19,"Rio de Janeiro, 18 Aug 2016",M,200m,195
 3,7,20.23,"Rio de Janeiro, 18 Aug 2016",M,200m,195
 1,8,20.43,"Rio de Janeiro, 18 Aug 2016",M,200m,195
-3,1,48.2,"Stockholm, 13 Jul 1912",M,400m,197
-2,2,48.3,"Stockholm, 13 Jul 1912",M,400m,197
-5,3,48.4,"Stockholm, 13 Jul 1912",M,400m,197
-1,4,48.4,"Stockholm, 13 Jul 1912",M,400m,197
-4,5,48.4,"Stockholm, 13 Jul 1912",M,400m,197
-1,1,49.6,"Antwerp, 20 Aug 1920",M,400m,197
-5,2,49.6,"Antwerp, 20 Aug 1920",M,400m,197
-6,3,49.6,"Antwerp, 20 Aug 1920",M,400m,197
-3,4,49.6,"Antwerp, 20 Aug 1920",M,400m,197
-4,5,49.6,"Antwerp, 20 Aug 1920",M,400m,197
-2,6,49.6,"Antwerp, 20 Aug 1920",M,400m,197
-6,1,47.6,"Paris, 11 Jul 1924",M,400m,197
-5,2,47.6,"Paris, 11 Jul 1924",M,400m,197
-2,3,47.6,"Paris, 11 Jul 1924",M,400m,197
-1,4,DNF,"Paris, 11 Jul 1924",M,400m,197
-4,5,DNF,"Paris, 11 Jul 1924",M,400m,197
-3,5,DNF,"Paris, 11 Jul 1924",M,400m,197
-1,1,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
-5,2,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
-3,3,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
-2,4,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
-4,5,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
-6,6,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
-4,1,46.2,"Los Angeles, 5 Aug 1932",M,400m,197
-2,2,46.4,"Los Angeles, 5 Aug 1932",M,400m,197
-3,3,47.4,"Los Angeles, 5 Aug 1932",M,400m,197
-1,4,48.2,"Los Angeles, 5 Aug 1932",M,400m,197
-5,5,48.2,"Los Angeles, 5 Aug 1932",M,400m,197
-6,6,48.8,"Los Angeles, 5 Aug 1932",M,400m,197
-5,1,46.5,"Berlin, 7 Aug 1936",M,400m,197
-6,2,46.7,"Berlin, 7 Aug 1936",M,400m,197
-2,3,46.8,"Berlin, 7 Aug 1936",M,400m,197
-3,4,46.8,"Berlin, 7 Aug 1936",M,400m,197
-1,5,47.8,"Berlin, 7 Aug 1936",M,400m,197
-4,6,48.2,"Berlin, 7 Aug 1936",M,400m,197
-3,1,0.00,"London, 5 Aug 1948",M,400m,198
-2,2,0.00,"London, 5 Aug 1948",M,400m,198
-4,3,0.00,"London, 5 Aug 1948",M,400m,198
-1,4,0.00,"London, 5 Aug 1948",M,400m,198
-6,5,0.00,"London, 5 Aug 1948",M,400m,198
-5,6,0.00,"London, 5 Aug 1948",M,400m,198
 7,1,45.9,"Helsinki, 25 Jul 1952",M,400m,198
 5,2,45.9,"Helsinki, 25 Jul 1952",M,400m,198
 6,3,46.8,"Helsinki, 25 Jul 1952",M,400m,198
@@ -1804,15 +1683,15 @@ lane,place,time,champs,sex,event,page
 4,1,46.7,"Melbourne, 29 Nov 1956",M,400m,198
 5,2,46.8,"Melbourne, 29 Nov 1956",M,400m,198
 3,3,47.0,"Melbourne, 29 Nov 1956",M,400m,198
-2,5,47.0,"Melbourne, 29 Nov 1956",M,400m,198
+2,5,48.1,"Melbourne, 29 Nov 1956",M,400m,198
 6,5,48.1,"Melbourne, 29 Nov 1956",M,400m,198
 1,6,48.3,"Melbourne, 29 Nov 1956",M,400m,198
-4,1,32.6,"Rome, 6 Sep 1960",M,400m,198
-2,2,32.6,"Rome, 6 Sep 1960",M,400m,198
-5,3,32.6,"Rome, 6 Sep 1960",M,400m,198
-6,4,32.6,"Rome, 6 Sep 1960",M,400m,198
-7,5,32.6,"Rome, 6 Sep 1960",M,400m,198
-3,6,32.6,"Rome, 6 Sep 1960",M,400m,198
+4,1,44.9,"Rome, 6 Sep 1960",M,400m,198
+2,2,44.9,"Rome, 6 Sep 1960",M,400m,198
+5,3,45.5,"Rome, 6 Sep 1960",M,400m,198
+6,4,45.6,"Rome, 6 Sep 1960",M,400m,198
+7,5,45.9,"Rome, 6 Sep 1960",M,400m,198
+3,6,45.9,"Rome, 6 Sep 1960",M,400m,198
 5,1,45.1,"Tokyo, 19 Oct 1964",M,400m,198
 7,2,45.2,"Tokyo, 19 Oct 1964",M,400m,198
 2,3,45.6,"Tokyo, 19 Oct 1964",M,400m,198
@@ -1822,153 +1701,109 @@ lane,place,time,champs,sex,event,page
 3,7,46.3,"Tokyo, 19 Oct 1964",M,400m,198
 4,8,46.8,"Tokyo, 19 Oct 1964",M,400m,198
 6,1,43.8,"Mexico City, 18 Oct 1968",M,400m,199
-2,2,32.2,"Mexico City, 18 Oct 1968",M,400m,199
-1,3,32.2,"Mexico City, 18 Oct 1968",M,400m,199
-5,4,32.2,"Mexico City, 18 Oct 1968",M,400m,199
-3,5,32.2,"Mexico City, 18 Oct 1968",M,400m,199
-4,6,32.2,"Mexico City, 18 Oct 1968",M,400m,199
-7,7,32.2,"Mexico City, 18 Oct 1968",M,400m,199
-8,8,32.2,"Mexico City, 18 Oct 1968",M,400m,199
+2,2,43.9,"Mexico City, 18 Oct 1968",M,400m,199
+1,3,44.4,"Mexico City, 18 Oct 1968",M,400m,199
+5,4,45.0,"Mexico City, 18 Oct 1968",M,400m,199
+3,5,45.3,"Mexico City, 18 Oct 1968",M,400m,199
+4,6,45.4,"Mexico City, 18 Oct 1968",M,400m,199
+7,7,45.4,"Mexico City, 18 Oct 1968",M,400m,199
+8,8,47.6,"Mexico City, 18 Oct 1968",M,400m,199
 2,1,44.66,"Munich, 7 Sep 1972",M,400m,199
 3,2,44.80,"Munich, 7 Sep 1972",M,400m,199
 5,3,44.92,"Munich, 7 Sep 1972",M,400m,199
 8,4,45.13,"Munich, 7 Sep 1972",M,400m,199
-7,5,32.3,"Munich, 7 Sep 1972",M,400m,199
-4,6,32.3,"Munich, 7 Sep 1972",M,400m,199
-1,7,32.3,"Munich, 7 Sep 1972",M,400m,199
-6,7,32.3,"Munich, 7 Sep 1972",M,400m,199
+7,5,45.31,"Munich, 7 Sep 1972",M,400m,199
+4,6,45.49,"Munich, 7 Sep 1972",M,400m,199
+1,7,45.68,"Munich, 7 Sep 1972",M,400m,199
+6,7,45.68,"Munich, 7 Sep 1972",M,400m,199
 2,1,44.26,"Montreal, 29 Jul 1976",M,400m,199
-4,2,32.6,"Montreal, 29 Jul 1976",M,400m,199
-3,3,32.6,"Montreal, 29 Jul 1976",M,400m,199
-8,4,32.6,"Montreal, 29 Jul 1976",M,400m,199
-7,5,32.6,"Montreal, 29 Jul 1976",M,400m,199
-6,6,32.6,"Montreal, 29 Jul 1976",M,400m,199
-5,7,32.6,"Montreal, 29 Jul 1976",M,400m,199
-1,7,32.6,"Montreal, 29 Jul 1976",M,400m,199
+4,2,44.40,"Montreal, 29 Jul 1976",M,400m,199
+3,3,44.95,"Montreal, 29 Jul 1976",M,400m,199
+8,4,45.04,"Montreal, 29 Jul 1976",M,400m,199
+7,5,45.24,"Montreal, 29 Jul 1976",M,400m,199
+6,6,45.40,"Montreal, 29 Jul 1976",M,400m,199
+5,7,45.57,"Montreal, 29 Jul 1976",M,400m,199
+1,7,45.57,"Montreal, 29 Jul 1976",M,400m,199
 2,1,44.60,"Moscow, 30 Jul 1980",M,400m,199
 4,2,44.84,"Moscow, 30 Jul 1980",M,400m,199
 6,3,44.87,"Moscow, 30 Jul 1980",M,400m,199
-3,4,32.6,"Moscow, 30 Jul 1980",M,400m,200
-1,5,32.6,"Moscow, 30 Jul 1980",M,400m,200
-7,6,32.6,"Moscow, 30 Jul 1980",M,400m,200
-8,7,32.6,"Moscow, 30 Jul 1980",M,400m,200
-5,8,32.6,"Moscow, 30 Jul 1980",M,400m,200
+3,4,45.09,"Moscow, 30 Jul 1980",M,400m,200
+1,5,45.10,"Moscow, 30 Jul 1980",M,400m,200
+7,6,45.55,"Moscow, 30 Jul 1980",M,400m,200
+8,7,45.56,"Moscow, 30 Jul 1980",M,400m,200
+5,8,46.33,"Moscow, 30 Jul 1980",M,400m,200
 4,1,44.27,"Los Angeles, 8 Aug 1984",M,400m,200
-7,2,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
-1,3,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
-5,4,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
-6,5,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
-2,6,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
-3,7,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
-8,7,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
+7,2,44.54,"Los Angeles, 8 Aug 1984",M,400m,200
+1,3,44.71,"Los Angeles, 8 Aug 1984",M,400m,200
+5,4,44.75,"Los Angeles, 8 Aug 1984",M,400m,200
+6,5,44.75,"Los Angeles, 8 Aug 1984",M,400m,200
+2,6,44.93,"Los Angeles, 8 Aug 1984",M,400m,200
+3,7,45.35,"Los Angeles, 8 Aug 1984",M,400m,200
+8,7,45.35,"Los Angeles, 8 Aug 1984",M,400m,200
 6,1,43.87,"Seoul, 26 Sep 1988",M,400m,200
 3,2,43.93,"Seoul, 26 Sep 1988",M,400m,200
 4,3,44.09,"Seoul, 26 Sep 1988",M,400m,200
-5,4,32.08,"Seoul, 26 Sep 1988",M,400m,200
-7,5,32.08,"Seoul, 26 Sep 1988",M,400m,200
-2,6,32.08,"Seoul, 26 Sep 1988",M,400m,200
-8,7,32.08,"Seoul, 26 Sep 1988",M,400m,200
-1,8,32.08,"Seoul, 26 Sep 1988",M,400m,200
+5,4,44.55,"Seoul, 26 Sep 1988",M,400m,200
+7,5,44.72,"Seoul, 26 Sep 1988",M,400m,200
+2,6,44.94,"Seoul, 26 Sep 1988",M,400m,200
+8,7,44.95,"Seoul, 26 Sep 1988",M,400m,200
+1,8,45.03,"Seoul, 26 Sep 1988",M,400m,200
 4,1,43.50,"Barcelona, 5 Aug 1992",M,400m,200
-7,2,31.4,"Barcelona, 5 Aug 1992",M,400m,200
-5,3,31.4,"Barcelona, 5 Aug 1992",M,400m,200
-6,4,31.4,"Barcelona, 5 Aug 1992",M,400m,200
-2,5,31.4,"Barcelona, 5 Aug 1992",M,400m,200
-3,6,31.4,"Barcelona, 5 Aug 1992",M,400m,200
-1,7,31.4,"Barcelona, 5 Aug 1992",M,400m,200
-8,8,31.4,"Barcelona, 5 Aug 1992",M,400m,200
+7,2,44.21,"Barcelona, 5 Aug 1992",M,400m,200
+5,3,44.24,"Barcelona, 5 Aug 1992",M,400m,200
+6,4,44.25,"Barcelona, 5 Aug 1992",M,400m,200
+2,5,44.52,"Barcelona, 5 Aug 1992",M,400m,200
+3,6,44.75,"Barcelona, 5 Aug 1992",M,400m,200
+1,7,45.10,"Barcelona, 5 Aug 1992",M,400m,200
+8,8,45.18,"Barcelona, 5 Aug 1992",M,400m,200
 4,1,43.49,"Atlanta, 29 Jul 1996",M,400m,201
-3,2,31.9,"Atlanta, 29 Jul 1996",M,400m,201
-2,3,31.9,"Atlanta, 29 Jul 1996",M,400m,201
-1,4,31.9,"Atlanta, 29 Jul 1996",M,400m,201
-8,5,31.9,"Atlanta, 29 Jul 1996",M,400m,201
-5,6,31.9,"Atlanta, 29 Jul 1996",M,400m,201
-6,7,31.9,"Atlanta, 29 Jul 1996",M,400m,201
-7,7,31.9,"Atlanta, 29 Jul 1996",M,400m,201
+3,2,44.41,"Atlanta, 29 Jul 1996",M,400m,201
+2,3,44.53,"Atlanta, 29 Jul 1996",M,400m,201
+1,4,44.62,"Atlanta, 29 Jul 1996",M,400m,201
+8,5,44.70,"Atlanta, 29 Jul 1996",M,400m,201
+5,6,44.83,"Atlanta, 29 Jul 1996",M,400m,201
+6,7,44.99,"Atlanta, 29 Jul 1996",M,400m,201
+7,7,44.99,"Atlanta, 29 Jul 1996",M,400m,201
 6,1,43.84,"Sydney, 25 Sep 2000",M,400m,201
 4,2,44.40,"Sydney, 25 Sep 2000",M,400m,201
 8,3,44.70,"Sydney, 25 Sep 2000",M,400m,201
-2,4,11.4,"Sydney, 25 Sep 2000",M,400m,201
-1,5,11.4,"Sydney, 25 Sep 2000",M,400m,201
-7,6,11.4,"Sydney, 25 Sep 2000",M,400m,201
-3,7,11.4,"Sydney, 25 Sep 2000",M,400m,201
-5,7,11.4,"Sydney, 25 Sep 2000",M,400m,201
+2,4,45.01,"Sydney, 25 Sep 2000",M,400m,201
+1,5,45.14,"Sydney, 25 Sep 2000",M,400m,201
+7,6,45.26,"Sydney, 25 Sep 2000",M,400m,201
+3,7,45.55,"Sydney, 25 Sep 2000",M,400m,201
+5,7,DQ,"Sydney, 25 Sep 2000",M,400m,201
 4,1,44.00,"Athens, 23 Aug 2004",M,400m,201
-5,2,32.2,"Athens, 23 Aug 2004",M,400m,201
-3,3,32.2,"Athens, 23 Aug 2004",M,400m,201
-8,4,32.2,"Athens, 23 Aug 2004",M,400m,201
-6,5,32.2,"Athens, 23 Aug 2004",M,400m,201
-7,6,32.2,"Athens, 23 Aug 2004",M,400m,201
-2,7,32.2,"Athens, 23 Aug 2004",M,400m,201
-1,8,32.2,"Athens, 23 Aug 2004",M,400m,201
+5,2,44.16,"Athens, 23 Aug 2004",M,400m,201
+3,3,44.42,"Athens, 23 Aug 2004",M,400m,201
+8,4,44.66,"Athens, 23 Aug 2004",M,400m,201
+6,5,44.76,"Athens, 23 Aug 2004",M,400m,201
+7,6,44.83,"Athens, 23 Aug 2004",M,400m,201
+2,7,44.94,"Athens, 23 Aug 2004",M,400m,201
+1,8,45.55,"Athens, 23 Aug 2004",M,400m,201
 4,1,43.75,"Beijing, 21 Aug 2008",M,400m,201
-7,2,31.7,"Beijing, 21 Aug 2008",M,400m,201
-9,3,31.7,"Beijing, 21 Aug 2008",M,400m,201
-5,4,31.7,"Beijing, 21 Aug 2008",M,400m,201
-6,5,31.7,"Beijing, 21 Aug 2008",M,400m,201
-8,6,31.7,"Beijing, 21 Aug 2008",M,400m,201
-2,7,31.7,"Beijing, 21 Aug 2008",M,400m,201
-3,8,31.7,"Beijing, 21 Aug 2008",M,400m,201
+7,2,44.74,"Beijing, 21 Aug 2008",M,400m,201
+9,3,44.80,"Beijing, 21 Aug 2008",M,400m,201
+5,4,44.84,"Beijing, 21 Aug 2008",M,400m,201
+6,5,45.11,"Beijing, 21 Aug 2008",M,400m,201
+8,6,45.12,"Beijing, 21 Aug 2008",M,400m,201
+2,7,45.22,"Beijing, 21 Aug 2008",M,400m,201
+3,8,45.39,"Beijing, 21 Aug 2008",M,400m,201
 5,1,43.94,"London, 6 Aug 2012",M,400m,202
-7,2,32.0,"London, 6 Aug 2012",M,400m,202
-4,3,32.0,"London, 6 Aug 2012",M,400m,202
-6,4,32.0,"London, 6 Aug 2012",M,400m,202
-9,5,32.0,"London, 6 Aug 2012",M,400m,202
-2,6,32.0,"London, 6 Aug 2012",M,400m,202
-8,7,32.0,"London, 6 Aug 2012",M,400m,202
-3,8,32.0,"London, 6 Aug 2012",M,400m,202
+7,2,44.46,"London, 6 Aug 2012",M,400m,202
+4,3,44.52,"London, 6 Aug 2012",M,400m,202
+6,4,44.79,"London, 6 Aug 2012",M,400m,202
+9,5,44.81,"London, 6 Aug 2012",M,400m,202
+2,6,44.83,"London, 6 Aug 2012",M,400m,202
+8,7,44.98,"London, 6 Aug 2012",M,400m,202
+3,8,45.14,"London, 6 Aug 2012",M,400m,202
 8,1,43.03,"Rio de Janeiro, 14 Aug 2016",M,400m,202
 6,2,43.76,"Rio de Janeiro, 14 Aug 2016",M,400m,202
 5,3,43.85,"Rio de Janeiro, 14 Aug 2016",M,400m,202
 3,4,44.01,"Rio de Janeiro, 14 Aug 2016",M,400m,202
 1,5,44.25,"Rio de Janeiro, 14 Aug 2016",M,400m,202
 2,6,44.36,"Rio de Janeiro, 14 Aug 2016",M,400m,202
-4,7,31.0,"Rio de Janeiro, 14 Aug 2016",M,400m,202
-7,8,31.0,"Rio de Janeiro, 14 Aug 2016",M,400m,202
-4,1,53.0,"St. Louis, 31 Aug 1904",M,400mH,248
-2,2,53.0,"St. Louis, 31 Aug 1904",M,400mH,248
-1,3,55.0,"St. Louis, 31 Aug 1904",M,400mH,248
-3,4,55.0,"St. Louis, 31 Aug 1904",M,400mH,248
-4,1,55.0,"London, 22 Jul 1908",M,400mH,248
-3,2,55.0,"London, 22 Jul 1908",M,400mH,248
-2,3,55.0,"London, 22 Jul 1908",M,400mH,248
-1,4,55.0,"London, 22 Jul 1908",M,400mH,248
-3,1,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
-5,2,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
-2,3,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
-4,4,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
-1,5,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
-6,6,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
-1,1,52.6,"Paris, 7 Jul 1924",M,400mH,248
-5,2,53.8,"Paris, 7 Jul 1924",M,400mH,248
-4,3,54.2,"Paris, 7 Jul 1924",M,400mH,248
-3,4,56.2,"Paris, 7 Jul 1924",M,400mH,249
-2,4,DQ,"Paris, 7 Jul 1924",M,400mH,249
-6,4,DQ,"Paris, 7 Jul 1924",M,400mH,249
-5,1,DQ,"Amsterdam, 30 Jul 1928",M,400mH,249
-1,2,DQ,"Amsterdam, 30 Jul 1928",M,400mH,249
-3,3,DQ,"Amsterdam, 30 Jul 1928",M,400mH,249
-2,4,51.7,"Amsterdam, 30 Jul 1928",M,400mH,249
-6,5,51.7,"Amsterdam, 30 Jul 1928",M,400mH,249
-4,6,51.7,"Amsterdam, 30 Jul 1928",M,400mH,249
-3,1,51.7,"Los Angeles, 1 Aug 1932",M,400mH,249
-6,2,51.9,"Los Angeles, 1 Aug 1932",M,400mH,249
-4,3,52.0,"Los Angeles, 1 Aug 1932",M,400mH,249
-5,4,52.2,"Los Angeles, 1 Aug 1932",M,400mH,249
-2,5,53.0,"Los Angeles, 1 Aug 1932",M,400mH,249
-1,6,54.6,"Los Angeles, 1 Aug 1932",M,400mH,249
-6,1,52.4,"Berlin, 4 Aug 1936",M,400mH,249
-3,2,52.7,"Berlin, 4 Aug 1936",M,400mH,249
-5,3,52.8,"Berlin, 4 Aug 1936",M,400mH,249
-1,4,53.0,"Berlin, 4 Aug 1936",M,400mH,249
-4,5,54.0,"Berlin, 4 Aug 1936",M,400mH,249
-2,6,54.2,"Berlin, 4 Aug 1936",M,400mH,249
-3,1,0.00,"London, 31 Jul 1948",M,400mH,249
-5,2,0.00,"London, 31 Jul 1948",M,400mH,249
-6,3,0.00,"London, 31 Jul 1948",M,400mH,249
-4,4,0.00,"London, 31 Jul 1948",M,400mH,249
-1,5,0.00,"London, 31 Jul 1948",M,400mH,249
-2,6,0.00,"London, 31 Jul 1948",M,400mH,249
+4,7,44.45,"Rio de Janeiro, 14 Aug 2016",M,400m,202
+7,8,44.61,"Rio de Janeiro, 14 Aug 2016",M,400m,202
 6,1,50.8,"Helsinki, 21 Jul 1952",M,400mH,250
 1,2,51.3,"Helsinki, 21 Jul 1952",M,400mH,250
 3,3,52.2,"Helsinki, 21 Jul 1952",M,400mH,250
@@ -1985,7 +1820,7 @@ lane,place,time,champs,sex,event,page
 5,2,49.6,"Rome, 2 Sep 1960",M,400mH,250
 1,3,49.7,"Rome, 2 Sep 1960",M,400mH,250
 2,4,49.9,"Rome, 2 Sep 1960",M,400mH,250
-4,4,50.8,"Rome, 2 Sep 1960",M,400mH,250
+4,4,49.9,"Rome, 2 Sep 1960",M,400mH,250
 3,6,51.0,"Rome, 2 Sep 1960",M,400mH,250
 6,1,49.6,"Tokyo, 16 Oct 1964",M,400mH,250
 4,2,50.1,"Tokyo, 16 Oct 1964",M,400mH,250
@@ -2098,51 +1933,12 @@ lane,place,time,champs,sex,event,page
 6,5,48.07,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
 1,6,48.40,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
 8,7,49.09,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
-3,7,DQ,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
-2,1,42.4,"Stockholm, 9 Jul 1912",M,4x100m,332
-3,2,42.6,"Stockholm, 9 Jul 1912",M,4x100m,332
-1,2,DQ,"Stockholm, 9 Jul 1912",M,4x100m,332
-6,1,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
-2,2,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
-5,3,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
-4,4,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
-1,5,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
-3,6,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
-1,1,41.0,"Paris, 13 Jul 1924",M,4x100m,333
-4,2,41.2,"Paris, 13 Jul 1924",M,4x100m,333
-2,3,41.8,"Paris, 13 Jul 1924",M,4x100m,333
-6,4,42.0,"Paris, 13 Jul 1924",M,4x100m,333
-3,5,42.2,"Paris, 13 Jul 1924",M,4x100m,333
-5,5,DQ,"Paris, 13 Jul 1924",M,4x100m,333
-1,1,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
-4,2,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
-2,3,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
-6,4,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
-5,5,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
-3,5,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
-1,1,40.0,"Los Angeles, 7 Aug 1932",M,4x100m,333
-4,2,40.9,"Los Angeles, 7 Aug 1932",M,4x100m,333
-2,3,41.2,"Los Angeles, 7 Aug 1932",M,4x100m,333
-3,4,41.3,"Los Angeles, 7 Aug 1932",M,4x100m,333
-5,5,41.3,"Los Angeles, 7 Aug 1932",M,4x100m,333
-6,6,41.4,"Los Angeles, 7 Aug 1932",M,4x100m,333
-4,1,39.8,"Berlin, 9 Aug 1936",M,4x100m,333
-5,2,41.1,"Berlin, 9 Aug 1936",M,4x100m,333
-2,3,41.2,"Berlin, 9 Aug 1936",M,4x100m,333
-1,4,42.2,"Berlin, 9 Aug 1936",M,4x100m,333
-6,5,42.7,"Berlin, 9 Aug 1936",M,4x100m,333
-3,3,DQ,"Berlin, 9 Aug 1936",M,4x100m,333
-3,1,0.00,"London, 7 Aug 1948",M,4x100m,334
-4,2,0.00,"London, 7 Aug 1948",M,4x100m,334
-5,3,0.00,"London, 7 Aug 1948",M,4x100m,334
-1,4,0.00,"London, 7 Aug 1948",M,4x100m,334
-6,5,0.00,"London, 7 Aug 1948",M,4x100m,334
-2,6,0.00,"London, 7 Aug 1948",M,4x100m,334
+3,7,49.09,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
 3,1,40.1,"Helsinki, 27 Jul 1952",M,4x100m,334
 4,2,40.3,"Helsinki, 27 Jul 1952",M,4x100m,334
-5,2,40.5,"Helsinki, 27 Jul 1952",M,4x100m,334
-2,2,40.6,"Helsinki, 27 Jul 1952",M,4x100m,334
-7,6,40.9,"Helsinki, 27 Jul 1952",M,4x100m,334
+5,2,40.3,"Helsinki, 27 Jul 1952",M,4x100m,334
+2,2,40.3,"Helsinki, 27 Jul 1952",M,4x100m,334
+7,6,41.2,"Helsinki, 27 Jul 1952",M,4x100m,334
 6,6,41.2,"Helsinki, 27 Jul 1952",M,4x100m,334
 6,1,39.5,"Melbourne, 1 Dec 1956",M,4x100m,334
 4,2,39.8,"Melbourne, 1 Dec 1956",M,4x100m,334
@@ -2196,14 +1992,14 @@ lane,place,time,champs,sex,event,page
 3,6,38.99,"Moscow, 1 Aug 1980",M,4x100m,336
 7,7,39.12,"Moscow, 1 Aug 1980",M,4x100m,336
 4,8,39.54,"Moscow, 1 Aug 1980",M,4x100m,336
-5,1,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
-1,2,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
-6,3,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
-3,4,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
-2,5,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
-7,6,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
-4,7,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
-8,8,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
+5,1,37.83,"Los Angeles, 11 Aug 1984",M,4x100m,336
+1,2,38.62,"Los Angeles, 11 Aug 1984",M,4x100m,336
+6,3,38.70,"Los Angeles, 11 Aug 1984",M,4x100m,336
+3,4,38.87,"Los Angeles, 11 Aug 1984",M,4x100m,336
+2,5,38.99,"Los Angeles, 11 Aug 1984",M,4x100m,336
+7,6,39.10,"Los Angeles, 11 Aug 1984",M,4x100m,336
+4,7,39.13,"Los Angeles, 11 Aug 1984",M,4x100m,336
+8,8,39.40,"Los Angeles, 11 Aug 1984",M,4x100m,336
 4,1,38.19,"Seoul, 1 Oct 1988",M,4x100m,336
 3,2,38.28,"Seoul, 1 Oct 1988",M,4x100m,336
 6,3,38.40,"Seoul, 1 Oct 1988",M,4x100m,336
@@ -2226,8 +2022,8 @@ lane,place,time,champs,sex,event,page
 7,4,38.55,"Atlanta, 3 Aug 1996",M,4x100m,337
 2,5,38.67,"Atlanta, 3 Aug 1996",M,4x100m,337
 5,6,39.39,"Atlanta, 3 Aug 1996",M,4x100m,337
-8,6,DNF,"Atlanta, 3 Aug 1996",M,4x100m,337
-1,6,DQ,"Atlanta, 3 Aug 1996",M,4x100m,337
+8,6,39.39,"Atlanta, 3 Aug 1996",M,4x100m,337
+1,6,39.39,"Atlanta, 3 Aug 1996",M,4x100m,337
 5,1,37.61,"Sydney, 30 September 2000",M,4x100m,337
 4,2,37.90,"Sydney, 30 September 2000",M,4x100m,337
 3,3,38.04,"Sydney, 30 September 2000",M,4x100m,337
@@ -2252,8 +2048,8 @@ lane,place,time,champs,sex,event,page
 8,7,DQ,"Beijing, 22 Aug 2008",M,4x100m,338
 2,7,DQ,"Beijing, 22 Aug 2008",M,4x100m,338
 5,1,DQ,"Beijing, 22 Aug 2008",M,4x100m,338
-6,1,37.31,"London, 11 Aug 2012",M,4x100m,338
-9,2,37.31,"London, 11 Aug 2012",M,4x100m,338
+6,1,36.84,"London, 11 Aug 2012",M,4x100m,338
+9,2,38.12,"London, 11 Aug 2012",M,4x100m,338
 3,3,38.16,"London, 11 Aug 2012",M,4x100m,338
 4,4,38.35,"London, 11 Aug 2012",M,4x100m,338
 8,5,38.39,"London, 11 Aug 2012",M,4x100m,338

@@ -12,6 +12,7 @@ const CHAMPS_HEIGHT = 12;
 const X = 4;
 const Y = 5;
 // origin = bottom left
+const CUTOFF_YEAR = 1952;
 
 const deltaSort = (xPos: number, yPos: number) => (a: TextItem, b: TextItem) => {
   const aXpos = a.transform[X];
@@ -51,21 +52,22 @@ for (const { docName, range, hdrText } of [
       .join('')
       .replaceAll(' ', '');
 
-    console.log(header);
     if (header.includes(hdrText) && evts.some((evt) => header.includes(evt)) && !deny.some((evt) => header.includes(evt))) {
       const evt = evts.findLast((evt) => header.includes(evt));
       const sex = header.includes('WOMEN') ? 'F' : 'M';
       const lanes = items.filter((item) => item.str.match(/\|\d\|/));
       const places = items.filter((item) => item.str.match(/^\(?=?\d,\)?$/));
       const times = items.filter(
-        (item) => (item.str.length >= 4 && item.str.match(/^[\d\.:]+$/)) || item.str === 'DQ' || item.str === 'DNF' || item.str === 'DNS'
+        (item) => (item.str.length >= 3 && item.str.match(/^[\d\.:]+$/)) || item.str === 'DQ' || item.str === 'DNF' || item.str === 'DNS'
       );
       const champs = items.filter(isChamp);
       for (const lane of lanes) {
         const xPos = lane.transform[X];
         const yPos = lane.transform[Y];
         const matchingPlace = places.sort(deltaSort(xPos, yPos))[0];
-        const matchingTime = times.filter((t) => t.transform[X] > xPos).sort(deltaSort(xPos, yPos))[0];
+        const matchingTime = times
+          .filter((t) => t.transform[X] > xPos && Math.abs(t.transform[Y] - matchingPlace.transform[Y]) < 5)
+          .sort(deltaSort(xPos, yPos))[0];
         let matchingChamp: TextItem | undefined = undefined;
         const leftSide = xPos < MIDPOINT_X;
         if (!leftSide) {
@@ -87,10 +89,11 @@ for (const { docName, range, hdrText } of [
             matchingChamp = prevChamps.filter((champ) => champ.transform[X] < MIDPOINT_X).sort((a, b) => a.transform[Y] - b.transform[Y])[0];
           }
         }
+        if (+(matchingChamp.str.split(' ').at(-1) ?? 0) < CUTOFF_YEAR) continue;
         laneInfos.push({
           lane: +lane.str.replace(/[^\d]/g, ''),
           place: +matchingPlace.str.replace(/[^\d]/g, ''),
-          time: matchingTime.str,
+          time: matchingTime?.str ?? '',
           champs: matchingChamp.str,
           sex,
           event: evt!,

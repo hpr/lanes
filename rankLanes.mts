@@ -31,7 +31,7 @@ for (const race in races) {
   const evt = race.split(' ').at(-1) ?? '';
   const evtCat = evtCats[evt];
   const winningLane = races[race].sort((a, b) => +a.place - +b.place)[0].lane;
-  // if (+winningLane === 9) console.log(races[race].at(0))
+  if (+winningLane === 1) console.log(races[race].at(0))
   wins[evtCat] ??= {};
   wins[evtCat][winningLane] ??= 0;
   wins[evtCat][winningLane]++;
