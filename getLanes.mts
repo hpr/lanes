@@ -43,6 +43,7 @@ type LaneInfo = {
   champs: string;
   event: string;
   sex: 'M' | 'F';
+  page: number;
 };
 
 const laneInfos: LaneInfo[] = [];
@@ -97,6 +98,7 @@ for (let pageNo = PAGE_START; pageNo <= PAGE_END; pageNo++) {
         champs: matchingChamp.str,
         sex,
         event: evt!,
+        page: pageNo,
       });
     }
   }
