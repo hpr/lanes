@@ -2,6 +2,7 @@ import PDFJS from 'pdfjs-dist/legacy/build/pdf.js';
 import { TextItem } from 'pdfjs-dist/types/src/display/api.js';
 import { stringify } from 'csv-stringify/sync';
 import fs from 'fs';
+import { LaneInfo } from './types.mjs';
 
 const doc = await PDFJS.getDocument('Oregon stats book.pdf').promise;
 
@@ -34,16 +35,6 @@ const isChamp = (item: TextItem) => {
       .at(-1)
       ?.match(/\d\d\d\d/)
   );
-};
-
-type LaneInfo = {
-  lane: number;
-  place: number;
-  time: string;
-  champs: string;
-  event: string;
-  sex: 'M' | 'F';
-  page: number;
 };
 
 const laneInfos: LaneInfo[] = [];

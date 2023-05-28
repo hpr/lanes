@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "fetchStats": "wget https://iaafmedia.s3.amazonaws.com/misc/Oregon22/Oregon%20stats%20book.pdf",
-    "getLanes": "export NAME=getLanes && tsc --module nodenext --outDir build $NAME.mts && node build/$NAME.mjs"
+    "getLanes": "export NAME=getLanes && tsc --module nodenext --outDir build $NAME.mts && node build/$NAME.mjs",
+    "rankLanes": "export NAME=rankLanes && tsc --module nodenext --outDir build $NAME.mts && node build/$NAME.mjs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "csv-parse": "^5.4.0",
     "csv-stringify": "^6.4.0",
     "pdfjs-dist": "^3.6.172",
     "typescript": "^5.0.4"
