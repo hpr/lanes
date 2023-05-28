@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "fetchStats": "wget https://iaafmedia.s3.amazonaws.com/misc/Oregon22/Oregon%20stats%20book.pdf",
+    "fetchStats": "wget https://iaafmedia.s3.amazonaws.com/misc/Oregon22/Oregon%20stats%20book.pdf && wget \"https://www.worldathletics.org/download/download?filename=c177c17b-bd27-4a1f-aac5-ee07e53a4137.pdf&urlSlug=tokyo-2020-olympic-games-statistics-handbook1\" -O tokyo-2020-olympic-games-statistics-handbook1.pdf",
     "getLanes": "export NAME=getLanes && tsc --module nodenext --outDir build $NAME.mts && node build/$NAME.mjs",
     "rankLanes": "export NAME=rankLanes && tsc --module nodenext --outDir build $NAME.mts && node build/$NAME.mjs"
   },

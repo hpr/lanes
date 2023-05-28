@@ -1084,3 +1084,1187 @@ lane,place,time,champs,sex,event,page
 5,6,42.71,Doha 2019,F,4x100m,399
 3,7,42.98,Doha 2019,F,4x100m,399
 8,7,DQ,Doha 2019,F,4x100m,399
+4,1,10.71,"Rio de Janeiro, 13 Aug 2016",F,200m,100
+5,2,10.83,"Rio de Janeiro, 13 Aug 2016",F,200m,100
+6,3,10.86,"Rio de Janeiro, 13 Aug 2016",F,200m,100
+3,4,10.86,"Rio de Janeiro, 13 Aug 2016",F,200m,100
+9,5,10.90,"Rio de Janeiro, 13 Aug 2016",F,200m,100
+8,6,10.92,"Rio de Janeiro, 13 Aug 2016",F,200m,100
+7,7,10.94,"Rio de Janeiro, 13 Aug 2016",F,200m,100
+2,8,11.80,"Rio de Janeiro, 13 Aug 2016",F,200m,100
+1,1,0.00,"London, 6 Aug 1948",F,200m,100
+4,2,0.00,"London, 6 Aug 1948",F,200m,100
+5,3,0.00,"London, 6 Aug 1948",F,200m,100
+2,4,0.00,"London, 6 Aug 1948",F,200m,100
+3,5,0.00,"London, 6 Aug 1948",F,200m,100
+6,6,0.00,"London, 6 Aug 1948",F,200m,100
+2,1,23.7,"Helsinki, 26 Jul 1952",F,200m,101
+3,2,24.2,"Helsinki, 26 Jul 1952",F,200m,101
+6,3,24.2,"Helsinki, 26 Jul 1952",F,200m,101
+5,4,24.2,"Helsinki, 26 Jul 1952",F,200m,101
+7,5,24.6,"Helsinki, 26 Jul 1952",F,200m,101
+4,6,24.6,"Helsinki, 26 Jul 1952",F,200m,101
+5,1,23.4,"Melbourne, 30 Nov 1956",F,200m,101
+6,2,23.7,"Melbourne, 30 Nov 1956",F,200m,101
+1,3,23.8,"Melbourne, 30 Nov 1956",F,200m,101
+4,4,24.0,"Melbourne, 30 Nov 1956",F,200m,101
+2,5,24.3,"Melbourne, 30 Nov 1956",F,200m,101
+3,6,24.3,"Melbourne, 30 Nov 1956",F,200m,101
+1,1,24.0,"Rome, 5 Sep 1960",F,200m,101
+5,2,24.4,"Rome, 5 Sep 1960",F,200m,101
+4,3,24.7,"Rome, 5 Sep 1960",F,200m,101
+3,4,24.7,"Rome, 5 Sep 1960",F,200m,101
+6,5,24.8,"Rome, 5 Sep 1960",F,200m,101
+2,6,24.9,"Rome, 5 Sep 1960",F,200m,101
+2,1,23.0,"Tokyo, 19 Oct 1964",F,200m,101
+4,2,23.1,"Tokyo, 19 Oct 1964",F,200m,101
+8,3,23.1,"Tokyo, 19 Oct 1964",F,200m,101
+1,4,23.5,"Tokyo, 19 Oct 1964",F,200m,101
+6,5,23.5,"Tokyo, 19 Oct 1964",F,200m,101
+3,6,23.9,"Tokyo, 19 Oct 1964",F,200m,101
+5,7,23.9,"Tokyo, 19 Oct 1964",F,200m,101
+7,8,24.0,"Tokyo, 19 Oct 1964",F,200m,101
+7,1,22.5,"Mexico City, 18 Oct 1968",F,200m,101
+6,2,22.7,"Mexico City, 18 Oct 1968",F,200m,101
+5,3,22.8,"Mexico City, 18 Oct 1968",F,200m,101
+1,4,22.9,"Mexico City, 18 Oct 1968",F,200m,101
+4,5,23.0,"Mexico City, 18 Oct 1968",F,200m,101
+3,6,23.0,"Mexico City, 18 Oct 1968",F,200m,101
+2,7,23.1,"Mexico City, 18 Oct 1968",F,200m,101
+8,8,23.2,"Mexico City, 18 Oct 1968",F,200m,101
+6,1,22.40,"Munich, 7 Sep 1972",F,200m,101
+4,2,22.45,"Munich, 7 Sep 1972",F,200m,101
+5,3,22.74,"Munich, 7 Sep 1972",F,200m,101
+3,4,22.75,"Munich, 7 Sep 1972",F,200m,101
+7,5,22.89,"Munich, 7 Sep 1972",F,200m,101
+1,5,22.89,"Munich, 7 Sep 1972",F,200m,101
+8,7,22.99,"Munich, 7 Sep 1972",F,200m,101
+2,8,23.11,"Munich, 7 Sep 1972",F,200m,101
+2,1,22.37,"Montreal, 28 Jul 1976",F,200m,102
+5,2,22.39,"Montreal, 28 Jul 1976",F,200m,102
+8,3,22.47,"Montreal, 28 Jul 1976",F,200m,102
+4,4,22.64,"Montreal, 28 Jul 1976",F,200m,102
+7,5,22.68,"Montreal, 28 Jul 1976",F,200m,102
+1,6,23.03,"Montreal, 28 Jul 1976",F,200m,102
+3,7,23.05,"Montreal, 28 Jul 1976",F,200m,102
+6,8,23.09,"Montreal, 28 Jul 1976",F,200m,102
+1,1,22.03,"Moscow, 30 Jul 1980",F,200m,102
+6,2,22.19,"Moscow, 30 Jul 1980",F,200m,102
+3,3,22.20,"Moscow, 30 Jul 1980",F,200m,102
+8,4,22.47,"Moscow, 30 Jul 1980",F,200m,102
+7,5,22.61,"Moscow, 30 Jul 1980",F,200m,102
+5,6,22.72,"Moscow, 30 Jul 1980",F,200m,102
+4,7,22.76,"Moscow, 30 Jul 1980",F,200m,102
+2,8,22.80,"Moscow, 30 Jul 1980",F,200m,102
+7,1,21.81,"Los Angeles, 9 Aug 1984",F,200m,102
+4,2,22.04,"Los Angeles, 9 Aug 1984",F,200m,102
+2,3,22.09,"Los Angeles, 9 Aug 1984",F,200m,102
+3,4,22.10,"Los Angeles, 9 Aug 1984",F,200m,102
+8,5,22.20,"Los Angeles, 9 Aug 1984",F,200m,102
+5,6,22.36,"Los Angeles, 9 Aug 1984",F,200m,102
+6,7,22.78,"Los Angeles, 9 Aug 1984",F,200m,102
+1,8,22.86,"Los Angeles, 9 Aug 1984",F,200m,102
+5,1,21.34,"Seoul, 29 Sep 1988",F,200m,102
+6,2,6.29,"Seoul, 29 Sep 1988",F,200m,102
+1,3,6.29,"Seoul, 29 Sep 1988",F,200m,102
+3,4,6.29,"Seoul, 29 Sep 1988",F,200m,102
+4,5,6.29,"Seoul, 29 Sep 1988",F,200m,102
+8,6,6.29,"Seoul, 29 Sep 1988",F,200m,102
+2,7,6.29,"Seoul, 29 Sep 1988",F,200m,102
+7,8,6.29,"Seoul, 29 Sep 1988",F,200m,102
+6,1,21.81,"Barcelona, 6 Aug 1992",F,200m,102
+4,2,22.02,"Barcelona, 6 Aug 1992",F,200m,102
+5,3,22.09,"Barcelona, 6 Aug 1992",F,200m,102
+3,4,22.19,"Barcelona, 6 Aug 1992",F,200m,103
+7,5,22.30,"Barcelona, 6 Aug 1992",F,200m,103
+8,6,22.58,"Barcelona, 6 Aug 1992",F,200m,103
+2,7,22.61,"Barcelona, 6 Aug 1992",F,200m,103
+1,8,22.63,"Barcelona, 6 Aug 1992",F,200m,103
+3,1,22.12,"Atlanta, 1 Aug 1996",F,200m,103
+5,2,22.24,"Atlanta, 1 Aug 1996",F,200m,103
+4,3,22.38,"Atlanta, 1 Aug 1996",F,200m,103
+7,4,22.41,"Atlanta, 1 Aug 1996",F,200m,103
+6,6,22.45,"Atlanta, 1 Aug 1996",F,200m,103
+8,6,22.54,"Atlanta, 1 Aug 1996",F,200m,103
+1,7,22.60,"Atlanta, 1 Aug 1996",F,200m,103
+2,8,22.61,"Atlanta, 1 Aug 1996",F,200m,103
+3,1,22.27,"Sydney, 28 Sep 2000",F,200m,103
+6,2,22.28,"Sydney, 28 Sep 2000",F,200m,103
+1,3,22.35,"Sydney, 28 Sep 2000",F,200m,103
+5,4,22.37,"Sydney, 28 Sep 2000",F,200m,103
+7,5,22.42,"Sydney, 28 Sep 2000",F,200m,103
+2,6,22.53,"Sydney, 28 Sep 2000",F,200m,103
+8,7,22.66,"Sydney, 28 Sep 2000",F,200m,103
+4,1,DQ,"Sydney, 28 Sep 2000",F,200m,103
+4,1,22.05,"Athens, 25 Aug 2004",F,200m,103
+3,2,22.18,"Athens, 25 Aug 2004",F,200m,103
+8,3,22.30,"Athens, 25 Aug 2004",F,200m,103
+6,4,22.42,"Athens, 25 Aug 2004",F,200m,103
+2,5,22.57,"Athens, 25 Aug 2004",F,200m,103
+1,6,22.84,"Athens, 25 Aug 2004",F,200m,103
+7,7,22.87,"Athens, 25 Aug 2004",F,200m,103
+5,7,22.87,"Athens, 25 Aug 2004",F,200m,103
+4,1,21.74,"Beijing, 21 Aug 2008",F,200m,103
+5,2,21.93,"Beijing, 21 Aug 2008",F,200m,103
+6,3,22.00,"Beijing, 21 Aug 2008",F,200m,103
+9,4,22.01,"Beijing, 21 Aug 2008",F,200m,103
+7,5,22.34,"Beijing, 21 Aug 2008",F,200m,103
+8,6,22.36,"Beijing, 21 Aug 2008",F,200m,103
+2,7,22.61,"Beijing, 21 Aug 2008",F,200m,103
+3,8,22.68,"Beijing, 21 Aug 2008",F,200m,103
+7,1,21.88,"London, 8 Aug 2012",F,400m,104
+4,2,22.09,"London, 8 Aug 2012",F,400m,104
+9,3,22.14,"London, 8 Aug 2012",F,400m,104
+5,4,22.38,"London, 8 Aug 2012",F,400m,104
+6,5,22.39,"London, 8 Aug 2012",F,400m,104
+8,6,22.57,"London, 8 Aug 2012",F,400m,104
+2,7,22.63,"London, 8 Aug 2012",F,400m,104
+3,8,DQ,"London, 8 Aug 2012",F,400m,104
+6,1,21.78,"Rio de Janeiro, 17 Aug 2016",F,400m,104
+4,2,21.88,"Rio de Janeiro, 17 Aug 2016",F,400m,104
+5,3,22.15,"Rio de Janeiro, 17 Aug 2016",F,400m,104
+3,4,22.21,"Rio de Janeiro, 17 Aug 2016",F,400m,104
+2,5,22.31,"Rio de Janeiro, 17 Aug 2016",F,400m,104
+7,6,22.34,"Rio de Janeiro, 17 Aug 2016",F,400m,104
+1,7,22.65,"Rio de Janeiro, 17 Aug 2016",F,400m,104
+8,8,22.69,"Rio de Janeiro, 17 Aug 2016",F,400m,104
+2,1,52.0,"Tokyo, 17 Oct 1964",F,400m,104
+6,2,52.2,"Tokyo, 17 Oct 1964",F,400m,104
+3,3,53.4,"Tokyo, 17 Oct 1964",F,400m,104
+4,4,54.4,"Tokyo, 17 Oct 1964",F,400m,104
+5,5,54.6,"Tokyo, 17 Oct 1964",F,400m,104
+1,6,55.2,"Tokyo, 17 Oct 1964",F,400m,104
+7,7,55.4,"Tokyo, 17 Oct 1964",F,400m,104
+8,8,55.5,"Tokyo, 17 Oct 1964",F,400m,104
+5,1,52.0,"Mexico City, 16 Oct 1968",F,400m,105
+1,2,52.1,"Mexico City, 16 Oct 1968",F,400m,105
+8,3,52.2,"Mexico City, 16 Oct 1968",F,400m,105
+7,4,52.5,"Mexico City, 16 Oct 1968",F,400m,105
+2,5,52.7,"Mexico City, 16 Oct 1968",F,400m,105
+4,6,52.7,"Mexico City, 16 Oct 1968",F,400m,105
+3,7,52.8,"Mexico City, 16 Oct 1968",F,400m,105
+6,8,53.0,"Mexico City, 16 Oct 1968",F,400m,105
+7,1,51.08,"Munich, 7 Sep 1972",F,400m,105
+4,2,51.21,"Munich, 7 Sep 1972",F,400m,105
+5,3,51.64,"Munich, 7 Sep 1972",F,400m,105
+6,4,51.86,"Munich, 7 Sep 1972",F,400m,105
+3,5,51.96,"Munich, 7 Sep 1972",F,400m,105
+8,6,51.99,"Munich, 7 Sep 1972",F,400m,105
+1,7,52.19,"Munich, 7 Sep 1972",F,400m,105
+2,8,52.39,"Munich, 7 Sep 1972",F,400m,105
+4,1,49.28,"Montreal, 29 Jul 1976",F,400m,105
+2,2,50.51,"Montreal, 29 Jul 1976",F,400m,105
+8,3,50.55,"Montreal, 29 Jul 1976",F,400m,105
+1,4,35.4,"Montreal, 29 Jul 1976",F,400m,105
+7,5,35.4,"Montreal, 29 Jul 1976",F,400m,105
+3,6,35.4,"Montreal, 29 Jul 1976",F,400m,105
+6,7,35.4,"Montreal, 29 Jul 1976",F,400m,105
+5,8,35.4,"Montreal, 29 Jul 1976",F,400m,105
+4,1,48.88,"Moscow, 28 Jul 1980",F,400m,105
+6,2,49.46,"Moscow, 28 Jul 1980",F,400m,105
+5,3,49.66,"Moscow, 28 Jul 1980",F,400m,105
+8,4,50.07,"Moscow, 28 Jul 1980",F,400m,105
+3,5,50.17,"Moscow, 28 Jul 1980",F,400m,105
+1,6,51.33,"Moscow, 28 Jul 1980",F,400m,105
+2,7,51.35,"Moscow, 28 Jul 1980",F,400m,105
+7,8,52.40,"Moscow, 28 Jul 1980",F,400m,105
+5,1,48.83,"Los Angeles, 6 Aug 1984",F,400m,106
+7,2,49.05,"Los Angeles, 6 Aug 1984",F,400m,106
+6,3,49.43,"Los Angeles, 6 Aug 1984",F,400m,106
+2,4,49.91,"Los Angeles, 6 Aug 1984",F,400m,106
+8,5,50.25,"Los Angeles, 6 Aug 1984",F,400m,106
+1,6,50.37,"Los Angeles, 6 Aug 1984",F,400m,106
+3,7,50.45,"Los Angeles, 6 Aug 1984",F,400m,106
+4,8,51.56,"Los Angeles, 6 Aug 1984",F,400m,106
+3,1,48.65,"Seoul, 26 Sep 1988",F,400m,106
+6,2,11.94,"Seoul, 26 Sep 1988",F,400m,106
+4,3,11.94,"Seoul, 26 Sep 1988",F,400m,106
+1,4,11.94,"Seoul, 26 Sep 1988",F,400m,106
+5,5,11.94,"Seoul, 26 Sep 1988",F,400m,106
+8,6,11.94,"Seoul, 26 Sep 1988",F,400m,106
+7,7,11.94,"Seoul, 26 Sep 1988",F,400m,106
+2,8,11.94,"Seoul, 26 Sep 1988",F,400m,106
+5,1,48.83,"Barcelona, 5 Aug 1992",F,400m,106
+3,2,49.05,"Barcelona, 5 Aug 1992",F,400m,106
+5,3,49.64,"Barcelona, 5 Aug 1992",F,400m,106
+8,4,35.5,"Barcelona, 5 Aug 1992",F,400m,106
+4,5,35.5,"Barcelona, 5 Aug 1992",F,400m,106
+1,6,35.5,"Barcelona, 5 Aug 1992",F,400m,106
+2,7,35.5,"Barcelona, 5 Aug 1992",F,400m,106
+7,8,35.5,"Barcelona, 5 Aug 1992",F,400m,106
+3,1,48.25,"Atlanta, 29 Jul 1996",F,400m,106
+4,2,35.0,"Atlanta, 29 Jul 1996",F,400m,106
+5,3,35.0,"Atlanta, 29 Jul 1996",F,400m,106
+2,4,35.0,"Atlanta, 29 Jul 1996",F,400m,106
+8,5,35.0,"Atlanta, 29 Jul 1996",F,400m,106
+6,6,35.0,"Atlanta, 29 Jul 1996",F,400m,106
+7,7,35.0,"Atlanta, 29 Jul 1996",F,400m,106
+1,8,35.0,"Atlanta, 29 Jul 1996",F,400m,106
+6,1,49.11,"Sydney, 25 Sep 2000",F,400m,106
+4,2,49.58,"Sydney, 25 Sep 2000",F,400m,106
+3,3,49.72,"Sydney, 25 Sep 2000",F,400m,106
+2,4,12.30,"Sydney, 25 Sep 2000",F,400m,107
+5,5,12.30,"Sydney, 25 Sep 2000",F,400m,107
+7,6,12.30,"Sydney, 25 Sep 2000",F,400m,107
+8,7,12.30,"Sydney, 25 Sep 2000",F,400m,107
+1,8,12.30,"Sydney, 25 Sep 2000",F,400m,107
+4,1,49.41,"Athens, 23 Aug 2004",F,400m,107
+3,2,12.0,"Athens, 23 Aug 2004",F,400m,107
+6,3,12.0,"Athens, 23 Aug 2004",F,400m,107
+5,4,12.0,"Athens, 23 Aug 2004",F,400m,107
+1,5,12.0,"Athens, 23 Aug 2004",F,400m,107
+2,6,12.0,"Athens, 23 Aug 2004",F,400m,107
+8,7,12.0,"Athens, 23 Aug 2004",F,400m,107
+7,8,12.0,"Athens, 23 Aug 2004",F,400m,107
+4,1,49.62,"Beijing, 21 Aug 2008",F,400m,107
+6,2,49.69,"Beijing, 21 Aug 2008",F,400m,107
+7,3,49.93,"Beijing, 21 Aug 2008",F,400m,107
+5,4,50.01,"Beijing, 21 Aug 2008",F,400m,107
+2,5,50.68,"Beijing, 21 Aug 2008",F,400m,107
+8,6,12.4,"Beijing, 21 Aug 2008",F,400m,107
+9,5,12.4,"Beijing, 21 Aug 2008",F,400m,107
+3,6,12.4,"Beijing, 21 Aug 2008",F,400m,107
+6,1,49.55,"London, 5 Aug 2012",F,400m,107
+8,2,49.70,"London, 5 Aug 2012",F,400m,107
+4,3,49.72,"London, 5 Aug 2012",F,400m,107
+7,4,49.75,"London, 5 Aug 2012",F,400m,108
+2,5,11.9,"London, 5 Aug 2012",F,400m,108
+9,6,11.9,"London, 5 Aug 2012",F,400m,108
+3,7,11.9,"London, 5 Aug 2012",F,400m,108
+5,6,11.9,"London, 5 Aug 2012",F,400m,108
+7,1,49.44,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+4,2,49.51,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+5,3,49.85,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+6,4,50.34,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+3,5,11.8,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+8,6,11.8,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+2,7,11.8,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+1,7,11.8,"Rio de Janeiro, 15 Aug 2016",F,400m,108
+6,1,12.48,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
+4,2,12.59,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
+7,3,12.61,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
+8,4,12.63,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
+2,5,12.74,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
+5,6,12.76,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
+3,7,12.76,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
+9,8,12.89,"Rio de Janeiro, 15 Aug 2016",F,400mH,130
+3,1,54.61,"Los Angeles, 8 Aug 1984",F,400mH,130
+8,2,55.20,"Los Angeles, 8 Aug 1984",F,400mH,130
+2,3,55.41,"Los Angeles, 8 Aug 1984",F,400mH,130
+5,4,55.42,"Los Angeles, 8 Aug 1984",F,400mH,130
+1,5,55.43,"Los Angeles, 8 Aug 1984",F,400mH,130
+6,6,56.21,"Los Angeles, 8 Aug 1984",F,400mH,130
+7,7,56.55,"Los Angeles, 8 Aug 1984",F,400mH,130
+4,8,57.15,"Los Angeles, 8 Aug 1984",F,400mH,130
+5,1,53.17,"Seoul, 28 Sep 1988",F,400mH,130
+3,2,53.18,"Seoul, 28 Sep 1988",F,400mH,130
+6,3,53.63,"Seoul, 28 Sep 1988",F,400mH,130
+7,4,53.69,"Seoul, 28 Sep 1988",F,400mH,130
+2,5,54.03,"Seoul, 28 Sep 1988",F,400mH,130
+8,6,54.04,"Seoul, 28 Sep 1988",F,400mH,130
+1,7,14.93,"Seoul, 28 Sep 1988",F,400mH,131
+4,8,14.93,"Seoul, 28 Sep 1988",F,400mH,131
+3,1,53.23,"Barcelona, 5 Aug 1992",F,400mH,131
+4,2,53.69,"Barcelona, 5 Aug 1992",F,400mH,131
+1,3,54.31,"Barcelona, 5 Aug 1992",F,400mH,131
+8,4,54.31,"Barcelona, 5 Aug 1992",F,400mH,131
+5,5,54.83,"Barcelona, 5 Aug 1992",F,400mH,131
+6,6,54.83,"Barcelona, 5 Aug 1992",F,400mH,131
+7,7,55.58,"Barcelona, 5 Aug 1992",F,400mH,131
+2,7,DNF,"Barcelona, 5 Aug 1992",F,400mH,131
+5,1,52.82,"Atlanta, 31 Jul 1996",F,400mH,131
+6,2,53.08,"Atlanta, 31 Jul 1996",F,400mH,131
+4,3,53.22,"Atlanta, 31 Jul 1996",F,400mH,131
+2,4,53.97,"Atlanta, 31 Jul 1996",F,400mH,131
+1,5,54.03,"Atlanta, 31 Jul 1996",F,400mH,131
+7,6,54.39,"Atlanta, 31 Jul 1996",F,400mH,131
+8,7,54.40,"Atlanta, 31 Jul 1996",F,400mH,131
+3,8,54.57,"Atlanta, 31 Jul 1996",F,400mH,131
+3,1,53.02,"Sydney, 27 Sep 2000",F,400mH,131
+6,2,53.45,"Sydney, 27 Sep 2000",F,400mH,131
+4,3,53.57,"Sydney, 27 Sep 2000",F,400mH,131
+5,4,53.68,"Sydney, 27 Sep 2000",F,400mH,131
+7,5,53.98,"Sydney, 27 Sep 2000",F,400mH,131
+8,6,54.35,"Sydney, 27 Sep 2000",F,400mH,131
+2,7,54.63,"Sydney, 27 Sep 2000",F,400mH,131
+1,8,55.00,"Sydney, 27 Sep 2000",F,400mH,131
+4,1,52.82,"Athens, 25 Aug 2004",F,400mH,131
+3,2,53.38,"Athens, 25 Aug 2004",F,400mH,131
+1,3,53.44,"Athens, 25 Aug 2004",F,400mH,131
+8,4,53.83,"Athens, 25 Aug 2004",F,400mH,131
+5,5,53.92,"Athens, 25 Aug 2004",F,400mH,131
+7,6,54.18,"Athens, 25 Aug 2004",F,400mH,131
+2,7,54.97,"Athens, 25 Aug 2004",F,400mH,131
+6,8,55.79,"Athens, 25 Aug 2004",F,400mH,131
+6,1,52.64,"Beijing, 19 Aug 2008",F,400mH,132
+5,2,53.70,"Beijing, 19 Aug 2008",F,400mH,132
+7,3,53.84,"Beijing, 19 Aug 2008",F,400mH,132
+4,4,53.96,"Beijing, 19 Aug 2008",F,400mH,132
+9,5,54.29,"Beijing, 19 Aug 2008",F,400mH,132
+2,6,54.96,"Beijing, 19 Aug 2008",F,400mH,132
+3,7,54.97,"Beijing, 19 Aug 2008",F,400mH,132
+8,8,57.55,"Beijing, 19 Aug 2008",F,400mH,132
+5,1,52.70,"London, 8 Aug 2012",F,400mH,132
+7,2,52.77,"London, 8 Aug 2012",F,400mH,132
+4,3,53.38,"London, 8 Aug 2012",F,400mH,132
+9,4,53.66,"London, 8 Aug 2012",F,400mH,132
+8,5,53.92,"London, 8 Aug 2012",F,400mH,132
+2,6,55.07,"London, 8 Aug 2012",F,400mH,132
+3,7,55.27,"London, 8 Aug 2012",F,400mH,132
+6,8,55.31,"London, 8 Aug 2012",F,400mH,132
+3,1,53.13,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
+4,2,53.55,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
+5,3,53.72,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
+6,4,53.92,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
+7,5,54.15,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
+2,6,54.45,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
+8,7,54.56,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
+1,8,54.61,"Rio de Janeiro, 18 Aug 2016",F,400mH,132
+1,1,48.4,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
+2,2,48.8,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
+6,3,49.0,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
+3,4,49.6,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
+5,5,49.8,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
+4,6,53.6,"4 x 100 Metres Relay Amsterdam, 5 Aug 1928",F,4x100m,173
+4,1,46.9,"Los Angeles, 7 Aug 1932",F,4x100m,173
+3,2,47.0,"Los Angeles, 7 Aug 1932",F,4x100m,173
+5,3,47.6,"Los Angeles, 7 Aug 1932",F,4x100m,173
+2,4,47.7,"Los Angeles, 7 Aug 1932",F,4x100m,173
+1,5,47.7,"Los Angeles, 7 Aug 1932",F,4x100m,173
+6,6,47.7,"Los Angeles, 7 Aug 1932",F,4x100m,173
+3,1,46.9,"Berlin, 9 Aug 1936",F,4x100m,173
+1,2,47.6,"Berlin, 9 Aug 1936",F,4x100m,173
+5,3,47.8,"Berlin, 9 Aug 1936",F,4x100m,173
+2,4,48.7,"Berlin, 9 Aug 1936",F,4x100m,173
+6,5,48.8,"Berlin, 9 Aug 1936",F,4x100m,173
+4,5,DQ,"Berlin, 9 Aug 1936",F,4x100m,173
+6,1,47.5,"London, 7 Aug 1948",F,4x100m,173
+2,2,47.6,"London, 7 Aug 1948",F,4x100m,173
+3,3,47.8,"London, 7 Aug 1948",F,4x100m,173
+4,4,48.0,"London, 7 Aug 1948",F,4x100m,173
+7,5,48.2,"London, 7 Aug 1948",F,4x100m,173
+5,6,49.2,"London, 7 Aug 1948",F,4x100m,173
+4,1,45.9,"Helsinki, 27 Jul 1952",F,4x100m,173
+5,2,45.9,"Helsinki, 27 Jul 1952",F,4x100m,173
+6,3,46.2,"Helsinki, 27 Jul 1952",F,4x100m,173
+3,4,46.3,"Helsinki, 27 Jul 1952",F,4x100m,173
+2,5,46.6,"Helsinki, 27 Jul 1952",F,4x100m,173
+7,6,47.8,"Helsinki, 27 Jul 1952",F,4x100m,173
+3,1,44.5,"Melbourne, 1 Dec 1956",F,4x100m,174
+4,2,44.7,"Melbourne, 1 Dec 1956",F,4x100m,174
+1,3,44.9,"Melbourne, 1 Dec 1956",F,4x100m,174
+5,4,45.6,"Melbourne, 1 Dec 1956",F,4x100m,174
+6,5,45.7,"Melbourne, 1 Dec 1956",F,4x100m,174
+2,6,47.2,"Melbourne, 1 Dec 1956",F,4x100m,174
+4,1,44.5,"Rome, 8 Sep 1960",F,4x100m,174
+5,2,44.8,"Rome, 8 Sep 1960",F,4x100m,174
+7,3,45.0,"Rome, 8 Sep 1960",F,4x100m,174
+3,4,45.2,"Rome, 8 Sep 1960",F,4x100m,174
+6,5,45.6,"Rome, 8 Sep 1960",F,4x100m,174
+2,5,DQ,"Rome, 8 Sep 1960",F,4x100m,174
+4,1,43.6,"Tokyo, 21 Oct 1964",F,4x100m,174
+5,2,43.9,"Tokyo, 21 Oct 1964",F,4x100m,174
+2,3,44.0,"Tokyo, 21 Oct 1964",F,4x100m,174
+7,4,44.4,"Tokyo, 21 Oct 1964",F,4x100m,174
+3,5,44.7,"Tokyo, 21 Oct 1964",F,4x100m,174
+1,6,45.0,"Tokyo, 21 Oct 1964",F,4x100m,174
+6,7,45.2,"Tokyo, 21 Oct 1964",F,4x100m,174
+8,8,46.1,"Tokyo, 21 Oct 1964",F,4x100m,174
+4,1,42.8,"Mexico City, 20 Oct 1968",F,4x100m,174
+6,2,43.3,"Mexico City, 20 Oct 1968",F,4x100m,174
+7,3,43.4,"Mexico City, 20 Oct 1968",F,4x100m,174
+3,4,43.4,"Mexico City, 20 Oct 1968",F,4x100m,174
+8,5,43.4,"Mexico City, 20 Oct 1968",F,4x100m,174
+2,6,43.6,"Mexico City, 20 Oct 1968",F,4x100m,174
+5,7,43.7,"Mexico City, 20 Oct 1968",F,4x100m,174
+1,8,44.2,"Mexico City, 20 Oct 1968",F,4x100m,174
+4,1,42.81,"Munich, 10 Sep 1972",F,4x100m,175
+2,2,42.95,"Munich, 10 Sep 1972",F,4x100m,175
+7,3,43.36,"Munich, 10 Sep 1972",F,4x100m,175
+8,4,43.39,"Munich, 10 Sep 1972",F,4x100m,175
+6,5,43.59,"Munich, 10 Sep 1972",F,4x100m,175
+5,6,43.61,"Munich, 10 Sep 1972",F,4x100m,175
+1,7,43.71,"Munich, 10 Sep 1972",F,4x100m,175
+1,8,44.20,"Munich, 10 Sep 1972",F,4x100m,175
+8,1,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
+1,2,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
+7,3,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
+6,4,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
+4,5,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
+5,6,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
+2,7,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
+3,8,10.14,"Montreal, 31 Jul 1976",F,4x100m,175
+8,1,41.60,"Moscow, 1 Aug 1980",F,4x100m,175
+1,2,42.10,"Moscow, 1 Aug 1980",F,4x100m,175
+7,3,42.43,"Moscow, 1 Aug 1980",F,4x100m,175
+4,4,42.67,"Moscow, 1 Aug 1980",F,4x100m,175
+6,5,42.84,"Moscow, 1 Aug 1980",F,4x100m,175
+3,6,43.19,"Moscow, 1 Aug 1980",F,4x100m,175
+2,7,43.59,"Moscow, 1 Aug 1980",F,4x100m,175
+5,7,DNF,"Moscow, 1 Aug 1980",F,4x100m,175
+5,1,41.65,"Los Angeles, 11 Aug 1984",F,4x100m,175
+6,2,42.77,"Los Angeles, 11 Aug 1984",F,4x100m,175
+1,3,43.11,"Los Angeles, 11 Aug 1984",F,4x100m,175
+8,4,43.15,"Los Angeles, 11 Aug 1984",F,4x100m,175
+7,5,43.57,"Los Angeles, 11 Aug 1984",F,4x100m,175
+3,6,10.49,"Los Angeles, 11 Aug 1984",F,4x100m,175
+4,7,10.49,"Los Angeles, 11 Aug 1984",F,4x100m,175
+2,8,10.49,"Los Angeles, 11 Aug 1984",F,4x100m,175
+6,1,41.98,"Seoul, 1 Oct 1988",F,4x100m,175
+5,2,42.09,"Seoul, 1 Oct 1988",F,4x100m,175
+4,3,42.75,"Seoul, 1 Oct 1988",F,4x100m,175
+3,4,42.76,"Seoul, 1 Oct 1988",F,4x100m,175
+7,5,43.02,"Seoul, 1 Oct 1988",F,4x100m,176
+8,6,43.93,"Seoul, 1 Oct 1988",F,4x100m,176
+1,7,44.02,"Seoul, 1 Oct 1988",F,4x100m,176
+2,7,10.70,"Seoul, 1 Oct 1988",F,4x100m,176
+3,1,42.11,"Barcelona, 8 Aug 1992",F,4x100m,176
+6,2,42.16,"Barcelona, 8 Aug 1992",F,4x100m,176
+4,3,42.81,"Barcelona, 8 Aug 1992",F,4x100m,176
+2,4,42.85,"Barcelona, 8 Aug 1992",F,4x100m,176
+7,5,43.12,"Barcelona, 8 Aug 1992",F,4x100m,176
+1,6,43.77,"Barcelona, 8 Aug 1992",F,4x100m,176
+5,6,DNF,"Barcelona, 8 Aug 1992",F,4x100m,176
+8,6,DNF,"Barcelona, 8 Aug 1992",F,4x100m,176
+5,1,41.95,"Atlanta, 3 Aug 1996",F,4x100m,176
+2,2,42.14,"Atlanta, 3 Aug 1996",F,4x100m,176
+6,3,42.24,"Atlanta, 3 Aug 1996",F,4x100m,176
+4,4,42.27,"Atlanta, 3 Aug 1996",F,4x100m,176
+7,5,42.56,"Atlanta, 3 Aug 1996",F,4x100m,176
+3,6,42.76,"Atlanta, 3 Aug 1996",F,4x100m,176
+8,7,43.70,"Atlanta, 3 Aug 1996",F,4x100m,176
+1,8,43.93,"Atlanta, 3 Aug 1996",F,4x100m,176
+5,1,41.95,"Sydney, 30 September 2000",F,4x100m,176
+3,2,42.13,"Sydney, 30 September 2000",F,4x100m,176
+6,3,42.20,"Sydney, 30 September 2000",F,4x100m,176
+4,4,42.42,"Sydney, 30 September 2000",F,4x100m,176
+8,5,43.02,"Sydney, 30 September 2000",F,4x100m,176
+1,6,43.11,"Sydney, 30 September 2000",F,4x100m,176
+7,7,44.05,"Sydney, 30 September 2000",F,4x100m,176
+2,8,44.87,"Sydney, 30 September 2000",F,4x100m,176
+4,1,41.73,"Athens, 27 Aug 2004",F,4x100m,177
+6,2,42.27,"Athens, 27 Aug 2004",F,4x100m,177
+2,3,42.54,"Athens, 27 Aug 2004",F,4x100m,177
+3,4,42.69,"Athens, 27 Aug 2004",F,4x100m,177
+1,5,42.94,"Athens, 27 Aug 2004",F,4x100m,177
+7,6,43.11,"Athens, 27 Aug 2004",F,4x100m,177
+8,7,43.42,"Athens, 27 Aug 2004",F,4x100m,177
+5,7,DQ,"Athens, 27 Aug 2004",F,4x100m,177
+5,1,42.54,"Beijing, 22 Aug 2008",F,4x100m,177
+3,2,43.04,"Beijing, 22 Aug 2008",F,4x100m,177
+8,3,43.14,"Beijing, 22 Aug 2008",F,4x100m,177
+9,4,43.28,"Beijing, 22 Aug 2008",F,4x100m,177
+7,4,DNF,"Beijing, 22 Aug 2008",F,4x100m,177
+6,1,DNF,"Beijing, 22 Aug 2008",F,4x100m,177
+2,1,DQ,"Beijing, 22 Aug 2008",F,4x100m,177
+4,1,DQ,"Beijing, 22 Aug 2008",F,4x100m,177
+7,1,40.82,"London, 10 Aug 2012",F,4x100m,178
+6,2,41.41,"London, 10 Aug 2012",F,4x100m,178
+5,3,42.04,"London, 10 Aug 2012",F,4x100m,178
+2,4,42.64,"London, 10 Aug 2012",F,4x100m,178
+8,5,42.67,"London, 10 Aug 2012",F,4x100m,178
+9,6,42.70,"London, 10 Aug 2012",F,4x100m,178
+3,7,42.91,"London, 10 Aug 2012",F,4x100m,178
+4,7,DQ,"London, 10 Aug 2012",F,4x100m,178
+1,1,41.01,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
+6,2,41.36,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
+5,3,41.77,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
+4,4,42.10,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
+7,5,42.12,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
+2,6,43.15,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
+3,7,43.21,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
+8,6,DQ,"Rio de Janeiro, 19 Aug 2016",F,4x100m,178
+4,1,21.6,"St. Louis, 31 Aug 1904",M,200m,190
+3,2,21.6,"St. Louis, 31 Aug 1904",M,200m,190
+2,3,21.6,"St. Louis, 31 Aug 1904",M,200m,190
+1,4,21.6,"St. Louis, 31 Aug 1904",M,200m,190
+3,1,22.6,"London, 23 Jul 1908",M,200m,190
+4,2,22.6,"London, 23 Jul 1908",M,200m,190
+2,3,22.6,"London, 23 Jul 1908",M,200m,190
+1,4,22.6,"London, 23 Jul 1908",M,200m,190
+4,1,21.7,"Stockholm, 11 Jul 1912",M,200m,191
+6,2,21.8,"Stockholm, 11 Jul 1912",M,200m,191
+1,3,22.0,"Stockholm, 11 Jul 1912",M,200m,191
+5,4,22.0,"Stockholm, 11 Jul 1912",M,200m,191
+2,5,22.0,"Stockholm, 11 Jul 1912",M,200m,191
+3,6,22.0,"Stockholm, 11 Jul 1912",M,200m,191
+3,1,22.0,"Antwerp, 20 Aug 1920",M,200m,191
+4,2,22.0,"Antwerp, 20 Aug 1920",M,200m,191
+5,3,22.0,"Antwerp, 20 Aug 1920",M,200m,191
+6,4,22.0,"Antwerp, 20 Aug 1920",M,200m,191
+1,5,22.0,"Antwerp, 20 Aug 1920",M,200m,191
+2,6,22.0,"Antwerp, 20 Aug 1920",M,200m,191
+4,1,21.6,"Paris, 9 Jul 1924",M,200m,191
+6,2,21.6,"Paris, 9 Jul 1924",M,200m,191
+5,3,21.6,"Paris, 9 Jul 1924",M,200m,191
+1,4,21.6,"Paris, 9 Jul 1924",M,200m,191
+3,5,21.6,"Paris, 9 Jul 1924",M,200m,191
+2,6,21.6,"Paris, 9 Jul 1924",M,200m,191
+2,1,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
+3,2,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
+4,3,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
+5,4,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
+6,5,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
+1,6,21.8,"Amsterdam, 1 Aug 1928",M,200m,191
+1,1,21.2,"Los Angeles, 3 Aug 1932",M,200m,191
+3,2,21.4,"Los Angeles, 3 Aug 1932",M,200m,191
+2,3,21.5,"Los Angeles, 3 Aug 1932",M,200m,191
+6,4,21.5,"Los Angeles, 3 Aug 1932",M,200m,191
+4,5,21.6,"Los Angeles, 3 Aug 1932",M,200m,191
+5,6,21.9,"Los Angeles, 3 Aug 1932",M,200m,191
+3,1,20.7,"Berlin, 5 Aug 1936",M,200m,191
+4,2,21.1,"Berlin, 5 Aug 1936",M,200m,191
+1,3,21.3,"Berlin, 5 Aug 1936",M,200m,191
+5,4,21.6,"Berlin, 5 Aug 1936",M,200m,191
+6,5,21.6,"Berlin, 5 Aug 1936",M,200m,191
+2,6,21.9,"Berlin, 5 Aug 1936",M,200m,191
+2,1,0.00,"London, 3 Aug 1948",M,200m,192
+4,2,0.00,"London, 3 Aug 1948",M,200m,192
+3,3,0.00,"London, 3 Aug 1948",M,200m,192
+1,4,0.00,"London, 3 Aug 1948",M,200m,192
+5,5,0.00,"London, 3 Aug 1948",M,200m,192
+6,6,0.00,"London, 3 Aug 1948",M,200m,192
+3,1,20.7,"Helsinki, 23 Jul 1952",M,200m,192
+7,2,20.8,"Helsinki, 23 Jul 1952",M,200m,192
+6,3,20.8,"Helsinki, 23 Jul 1952",M,200m,192
+4,4,21.0,"Helsinki, 23 Jul 1952",M,200m,192
+5,5,21.2,"Helsinki, 23 Jul 1952",M,200m,192
+2,6,21.3,"Helsinki, 23 Jul 1952",M,200m,192
+3,1,20.6,"Melbourne, 27 Nov 1956",M,200m,192
+4,2,20.7,"Melbourne, 27 Nov 1956",M,200m,192
+6,3,20.9,"Melbourne, 27 Nov 1956",M,200m,192
+1,4,21.1,"Melbourne, 27 Nov 1956",M,200m,192
+2,5,21.2,"Melbourne, 27 Nov 1956",M,200m,192
+5,6,21.3,"Melbourne, 27 Nov 1956",M,200m,192
+5,1,20.6,"Rome, 3 Sep 1960",M,200m,192
+7,2,20.6,"Rome, 3 Sep 1960",M,200m,192
+3,3,20.7,"Rome, 3 Sep 1960",M,200m,192
+2,4,20.8,"Rome, 3 Sep 1960",M,200m,192
+4,5,20.8,"Rome, 3 Sep 1960",M,200m,192
+6,6,20.9,"Rome, 3 Sep 1960",M,200m,192
+7,1,20.3,"Tokyo, 17 Oct 1964",M,200m,192
+5,2,20.5,"Tokyo, 17 Oct 1964",M,200m,192
+8,3,20.6,"Tokyo, 17 Oct 1964",M,200m,192
+3,4,20.7,"Tokyo, 17 Oct 1964",M,200m,192
+1,5,20.8,"Tokyo, 17 Oct 1964",M,200m,192
+4,6,20.8,"Tokyo, 17 Oct 1964",M,200m,192
+6,7,20.8,"Tokyo, 17 Oct 1964",M,200m,192
+2,8,20.9,"Tokyo, 17 Oct 1964",M,200m,192
+3,1,19.8,"Mexico City, 16 Oct 1968",M,200m,192
+6,2,20.0,"Mexico City, 16 Oct 1968",M,200m,192
+4,3,20.0,"Mexico City, 16 Oct 1968",M,200m,192
+8,4,20.3,"Mexico City, 16 Oct 1968",M,200m,193
+2,5,20.5,"Mexico City, 16 Oct 1968",M,200m,193
+5,6,20.6,"Mexico City, 16 Oct 1968",M,200m,193
+1,7,20.6,"Mexico City, 16 Oct 1968",M,200m,193
+7,8,20.6,"Mexico City, 16 Oct 1968",M,200m,193
+5,1,20.00,"Munich, 4 Sep 1972",M,200m,193
+1,2,20.19,"Munich, 4 Sep 1972",M,200m,193
+2,3,20.30,"Munich, 4 Sep 1972",M,200m,193
+6,4,20.37,"Munich, 4 Sep 1972",M,200m,193
+3,5,20.55,"Munich, 4 Sep 1972",M,200m,193
+8,6,20.56,"Munich, 4 Sep 1972",M,200m,193
+4,7,20.65,"Munich, 4 Sep 1972",M,200m,193
+7,8,21.05,"Munich, 4 Sep 1972",M,200m,193
+2,1,20.23,"Montreal, 26 Jul 1976",M,200m,193
+4,2,20.29,"Montreal, 26 Jul 1976",M,200m,193
+7,3,20.43,"Montreal, 26 Jul 1976",M,200m,193
+1,4,20.54,"Montreal, 26 Jul 1976",M,200m,193
+8,5,20.84,"Montreal, 26 Jul 1976",M,200m,193
+6,6,20.91,"Montreal, 26 Jul 1976",M,200m,193
+3,7,21.17,"Montreal, 26 Jul 1976",M,200m,193
+5,8,79.60,"Montreal, 26 Jul 1976",M,200m,193
+8,1,20.19,"Moscow, 28 Jul 1980",M,200m,193
+7,2,20.21,"Moscow, 28 Jul 1980",M,200m,193
+4,3,20.29,"Moscow, 28 Jul 1980",M,200m,193
+1,4,20.30,"Moscow, 28 Jul 1980",M,200m,193
+3,5,20.50,"Moscow, 28 Jul 1980",M,200m,193
+5,6,20.68,"Moscow, 28 Jul 1980",M,200m,193
+2,7,20.81,"Moscow, 28 Jul 1980",M,200m,193
+6,8,21.19,"Moscow, 28 Jul 1980",M,200m,193
+7,1,19.80,"Los Angeles, 8 Aug 1984",M,200m,193
+3,2,19.96,"Los Angeles, 8 Aug 1984",M,200m,193
+4,3,20.26,"Los Angeles, 8 Aug 1984",M,200m,193
+8,4,20.30,"Los Angeles, 8 Aug 1984",M,200m,193
+6,5,20.51,"Los Angeles, 8 Aug 1984",M,200m,193
+2,6,20.55,"Los Angeles, 8 Aug 1984",M,200m,193
+5,7,20.55,"Los Angeles, 8 Aug 1984",M,200m,193
+1,8,20.85,"Los Angeles, 8 Aug 1984",M,200m,193
+6,1,19.75,"Seoul, 28 Sep 1988",M,200m,194
+3,2,19.79,"Seoul, 28 Sep 1988",M,200m,194
+4,3,20.04,"Seoul, 28 Sep 1988",M,200m,194
+5,4,20.09,"Seoul, 28 Sep 1988",M,200m,194
+2,5,20.39,"Seoul, 28 Sep 1988",M,200m,194
+1,6,20.40,"Seoul, 28 Sep 1988",M,200m,194
+8,7,20.51,"Seoul, 28 Sep 1988",M,200m,194
+7,8,20.58,"Seoul, 28 Sep 1988",M,200m,194
+4,1,20.01,"Barcelona, 6 Aug 1992",M,200m,194
+5,2,20.13,"Barcelona, 6 Aug 1992",M,200m,194
+1,3,20.38,"Barcelona, 6 Aug 1992",M,200m,194
+6,4,20.45,"Barcelona, 6 Aug 1992",M,200m,194
+2,5,20.50,"Barcelona, 6 Aug 1992",M,200m,194
+3,6,20.55,"Barcelona, 6 Aug 1992",M,200m,194
+7,7,20.67,"Barcelona, 6 Aug 1992",M,200m,194
+8,8,20.80,"Barcelona, 6 Aug 1992",M,200m,194
+3,1,19.32,"Atlanta, 1 Aug 1996",M,200m,194
+5,2,19.68,"Atlanta, 1 Aug 1996",M,200m,194
+6,3,19.80,"Atlanta, 1 Aug 1996",M,200m,194
+8,4,20.14,"Atlanta, 1 Aug 1996",M,200m,194
+2,5,20.17,"Atlanta, 1 Aug 1996",M,200m,194
+4,6,20.21,"Atlanta, 1 Aug 1996",M,200m,194
+7,7,20.27,"Atlanta, 1 Aug 1996",M,200m,194
+1,8,20.48,"Atlanta, 1 Aug 1996",M,200m,194
+5,1,20.09,"Sydney, 28 Sep 2000",M,200m,194
+6,2,20.14,"Sydney, 28 Sep 2000",M,200m,194
+8,3,20.20,"Sydney, 28 Sep 2000",M,200m,194
+7,4,20.20,"Sydney, 28 Sep 2000",M,200m,194
+3,5,20.23,"Sydney, 28 Sep 2000",M,200m,194
+1,6,20.28,"Sydney, 28 Sep 2000",M,200m,194
+2,7,20.35,"Sydney, 28 Sep 2000",M,200m,194
+4,8,20.49,"Sydney, 28 Sep 2000",M,200m,194
+4,1,19.79,"Athens, 26 Aug 2004",M,200m,194
+3,2,20.01,"Athens, 26 Aug 2004",M,200m,194
+5,3,20.03,"Athens, 26 Aug 2004",M,200m,194
+8,4,20.14,"Athens, 26 Aug 2004",M,200m,194
+6,5,20.14,"Athens, 26 Aug 2004",M,200m,194
+7,6,20.24,"Athens, 26 Aug 2004",M,200m,194
+1,7,20.64,"Athens, 26 Aug 2004",M,200m,194
+2,7,DNS,"Athens, 26 Aug 2004",M,200m,194
+5,1,19.30,"Beijing, 20 Aug 2008",M,200m,195
+4,2,19.96,"Beijing, 20 Aug 2008",M,200m,195
+8,3,19.98,"Beijing, 20 Aug 2008",M,200m,195
+6,4,20.22,"Beijing, 20 Aug 2008",M,200m,195
+3,5,20.40,"Beijing, 20 Aug 2008",M,200m,195
+2,6,20.59,"Beijing, 20 Aug 2008",M,200m,195
+7,6,DQ,"Beijing, 20 Aug 2008",M,200m,195
+9,6,DQ,"Beijing, 20 Aug 2008",M,200m,195
+7,1,19.32,"London, 9 Aug 2012",M,200m,195
+4,2,19.44,"London, 9 Aug 2012",M,200m,195
+8,3,19.84,"London, 9 Aug 2012",M,200m,195
+6,4,19.90,"London, 9 Aug 2012",M,200m,195
+5,5,20.00,"London, 9 Aug 2012",M,200m,195
+2,6,20.19,"London, 9 Aug 2012",M,200m,195
+3,7,20.57,"London, 9 Aug 2012",M,200m,195
+9,8,20.69,"London, 9 Aug 2012",M,200m,195
+6,1,19.78,"Rio de Janeiro, 18 Aug 2016",M,200m,195
+4,2,20.02,"Rio de Janeiro, 18 Aug 2016",M,200m,195
+7,3,20.12,"Rio de Janeiro, 18 Aug 2016",M,200m,195
+2,4,20.12,"Rio de Janeiro, 18 Aug 2016",M,200m,195
+8,5,20.13,"Rio de Janeiro, 18 Aug 2016",M,200m,195
+5,6,20.19,"Rio de Janeiro, 18 Aug 2016",M,200m,195
+3,7,20.23,"Rio de Janeiro, 18 Aug 2016",M,200m,195
+1,8,20.43,"Rio de Janeiro, 18 Aug 2016",M,200m,195
+3,1,48.2,"Stockholm, 13 Jul 1912",M,400m,197
+2,2,48.3,"Stockholm, 13 Jul 1912",M,400m,197
+5,3,48.4,"Stockholm, 13 Jul 1912",M,400m,197
+1,4,48.4,"Stockholm, 13 Jul 1912",M,400m,197
+4,5,48.4,"Stockholm, 13 Jul 1912",M,400m,197
+1,1,49.6,"Antwerp, 20 Aug 1920",M,400m,197
+5,2,49.6,"Antwerp, 20 Aug 1920",M,400m,197
+6,3,49.6,"Antwerp, 20 Aug 1920",M,400m,197
+3,4,49.6,"Antwerp, 20 Aug 1920",M,400m,197
+4,5,49.6,"Antwerp, 20 Aug 1920",M,400m,197
+2,6,49.6,"Antwerp, 20 Aug 1920",M,400m,197
+6,1,47.6,"Paris, 11 Jul 1924",M,400m,197
+5,2,47.6,"Paris, 11 Jul 1924",M,400m,197
+2,3,47.6,"Paris, 11 Jul 1924",M,400m,197
+1,4,DNF,"Paris, 11 Jul 1924",M,400m,197
+4,5,DNF,"Paris, 11 Jul 1924",M,400m,197
+3,5,DNF,"Paris, 11 Jul 1924",M,400m,197
+1,1,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
+5,2,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
+3,3,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
+2,4,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
+4,5,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
+6,6,47.8,"Amsterdam, 3 Aug 1928",M,400m,197
+4,1,46.2,"Los Angeles, 5 Aug 1932",M,400m,197
+2,2,46.4,"Los Angeles, 5 Aug 1932",M,400m,197
+3,3,47.4,"Los Angeles, 5 Aug 1932",M,400m,197
+1,4,48.2,"Los Angeles, 5 Aug 1932",M,400m,197
+5,5,48.2,"Los Angeles, 5 Aug 1932",M,400m,197
+6,6,48.8,"Los Angeles, 5 Aug 1932",M,400m,197
+5,1,46.5,"Berlin, 7 Aug 1936",M,400m,197
+6,2,46.7,"Berlin, 7 Aug 1936",M,400m,197
+2,3,46.8,"Berlin, 7 Aug 1936",M,400m,197
+3,4,46.8,"Berlin, 7 Aug 1936",M,400m,197
+1,5,47.8,"Berlin, 7 Aug 1936",M,400m,197
+4,6,48.2,"Berlin, 7 Aug 1936",M,400m,197
+3,1,0.00,"London, 5 Aug 1948",M,400m,198
+2,2,0.00,"London, 5 Aug 1948",M,400m,198
+4,3,0.00,"London, 5 Aug 1948",M,400m,198
+1,4,0.00,"London, 5 Aug 1948",M,400m,198
+6,5,0.00,"London, 5 Aug 1948",M,400m,198
+5,6,0.00,"London, 5 Aug 1948",M,400m,198
+7,1,45.9,"Helsinki, 25 Jul 1952",M,400m,198
+5,2,45.9,"Helsinki, 25 Jul 1952",M,400m,198
+6,3,46.8,"Helsinki, 25 Jul 1952",M,400m,198
+4,4,47.0,"Helsinki, 25 Jul 1952",M,400m,198
+3,5,47.0,"Helsinki, 25 Jul 1952",M,400m,198
+2,6,47.1,"Helsinki, 25 Jul 1952",M,400m,198
+4,1,46.7,"Melbourne, 29 Nov 1956",M,400m,198
+5,2,46.8,"Melbourne, 29 Nov 1956",M,400m,198
+3,3,47.0,"Melbourne, 29 Nov 1956",M,400m,198
+2,5,47.0,"Melbourne, 29 Nov 1956",M,400m,198
+6,5,48.1,"Melbourne, 29 Nov 1956",M,400m,198
+1,6,48.3,"Melbourne, 29 Nov 1956",M,400m,198
+4,1,32.6,"Rome, 6 Sep 1960",M,400m,198
+2,2,32.6,"Rome, 6 Sep 1960",M,400m,198
+5,3,32.6,"Rome, 6 Sep 1960",M,400m,198
+6,4,32.6,"Rome, 6 Sep 1960",M,400m,198
+7,5,32.6,"Rome, 6 Sep 1960",M,400m,198
+3,6,32.6,"Rome, 6 Sep 1960",M,400m,198
+5,1,45.1,"Tokyo, 19 Oct 1964",M,400m,198
+7,2,45.2,"Tokyo, 19 Oct 1964",M,400m,198
+2,3,45.6,"Tokyo, 19 Oct 1964",M,400m,198
+6,4,45.7,"Tokyo, 19 Oct 1964",M,400m,198
+8,5,46.0,"Tokyo, 19 Oct 1964",M,400m,198
+1,6,46.0,"Tokyo, 19 Oct 1964",M,400m,198
+3,7,46.3,"Tokyo, 19 Oct 1964",M,400m,198
+4,8,46.8,"Tokyo, 19 Oct 1964",M,400m,198
+6,1,43.8,"Mexico City, 18 Oct 1968",M,400m,199
+2,2,32.2,"Mexico City, 18 Oct 1968",M,400m,199
+1,3,32.2,"Mexico City, 18 Oct 1968",M,400m,199
+5,4,32.2,"Mexico City, 18 Oct 1968",M,400m,199
+3,5,32.2,"Mexico City, 18 Oct 1968",M,400m,199
+4,6,32.2,"Mexico City, 18 Oct 1968",M,400m,199
+7,7,32.2,"Mexico City, 18 Oct 1968",M,400m,199
+8,8,32.2,"Mexico City, 18 Oct 1968",M,400m,199
+2,1,44.66,"Munich, 7 Sep 1972",M,400m,199
+3,2,44.80,"Munich, 7 Sep 1972",M,400m,199
+5,3,44.92,"Munich, 7 Sep 1972",M,400m,199
+8,4,45.13,"Munich, 7 Sep 1972",M,400m,199
+7,5,32.3,"Munich, 7 Sep 1972",M,400m,199
+4,6,32.3,"Munich, 7 Sep 1972",M,400m,199
+1,7,32.3,"Munich, 7 Sep 1972",M,400m,199
+6,7,32.3,"Munich, 7 Sep 1972",M,400m,199
+2,1,44.26,"Montreal, 29 Jul 1976",M,400m,199
+4,2,32.6,"Montreal, 29 Jul 1976",M,400m,199
+3,3,32.6,"Montreal, 29 Jul 1976",M,400m,199
+8,4,32.6,"Montreal, 29 Jul 1976",M,400m,199
+7,5,32.6,"Montreal, 29 Jul 1976",M,400m,199
+6,6,32.6,"Montreal, 29 Jul 1976",M,400m,199
+5,7,32.6,"Montreal, 29 Jul 1976",M,400m,199
+1,7,32.6,"Montreal, 29 Jul 1976",M,400m,199
+2,1,44.60,"Moscow, 30 Jul 1980",M,400m,199
+4,2,44.84,"Moscow, 30 Jul 1980",M,400m,199
+6,3,44.87,"Moscow, 30 Jul 1980",M,400m,199
+3,4,32.6,"Moscow, 30 Jul 1980",M,400m,200
+1,5,32.6,"Moscow, 30 Jul 1980",M,400m,200
+7,6,32.6,"Moscow, 30 Jul 1980",M,400m,200
+8,7,32.6,"Moscow, 30 Jul 1980",M,400m,200
+5,8,32.6,"Moscow, 30 Jul 1980",M,400m,200
+4,1,44.27,"Los Angeles, 8 Aug 1984",M,400m,200
+7,2,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
+1,3,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
+5,4,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
+6,5,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
+2,6,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
+3,7,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
+8,7,32.5,"Los Angeles, 8 Aug 1984",M,400m,200
+6,1,43.87,"Seoul, 26 Sep 1988",M,400m,200
+3,2,43.93,"Seoul, 26 Sep 1988",M,400m,200
+4,3,44.09,"Seoul, 26 Sep 1988",M,400m,200
+5,4,32.08,"Seoul, 26 Sep 1988",M,400m,200
+7,5,32.08,"Seoul, 26 Sep 1988",M,400m,200
+2,6,32.08,"Seoul, 26 Sep 1988",M,400m,200
+8,7,32.08,"Seoul, 26 Sep 1988",M,400m,200
+1,8,32.08,"Seoul, 26 Sep 1988",M,400m,200
+4,1,43.50,"Barcelona, 5 Aug 1992",M,400m,200
+7,2,31.4,"Barcelona, 5 Aug 1992",M,400m,200
+5,3,31.4,"Barcelona, 5 Aug 1992",M,400m,200
+6,4,31.4,"Barcelona, 5 Aug 1992",M,400m,200
+2,5,31.4,"Barcelona, 5 Aug 1992",M,400m,200
+3,6,31.4,"Barcelona, 5 Aug 1992",M,400m,200
+1,7,31.4,"Barcelona, 5 Aug 1992",M,400m,200
+8,8,31.4,"Barcelona, 5 Aug 1992",M,400m,200
+4,1,43.49,"Atlanta, 29 Jul 1996",M,400m,201
+3,2,31.9,"Atlanta, 29 Jul 1996",M,400m,201
+2,3,31.9,"Atlanta, 29 Jul 1996",M,400m,201
+1,4,31.9,"Atlanta, 29 Jul 1996",M,400m,201
+8,5,31.9,"Atlanta, 29 Jul 1996",M,400m,201
+5,6,31.9,"Atlanta, 29 Jul 1996",M,400m,201
+6,7,31.9,"Atlanta, 29 Jul 1996",M,400m,201
+7,7,31.9,"Atlanta, 29 Jul 1996",M,400m,201
+6,1,43.84,"Sydney, 25 Sep 2000",M,400m,201
+4,2,44.40,"Sydney, 25 Sep 2000",M,400m,201
+8,3,44.70,"Sydney, 25 Sep 2000",M,400m,201
+2,4,11.4,"Sydney, 25 Sep 2000",M,400m,201
+1,5,11.4,"Sydney, 25 Sep 2000",M,400m,201
+7,6,11.4,"Sydney, 25 Sep 2000",M,400m,201
+3,7,11.4,"Sydney, 25 Sep 2000",M,400m,201
+5,7,11.4,"Sydney, 25 Sep 2000",M,400m,201
+4,1,44.00,"Athens, 23 Aug 2004",M,400m,201
+5,2,32.2,"Athens, 23 Aug 2004",M,400m,201
+3,3,32.2,"Athens, 23 Aug 2004",M,400m,201
+8,4,32.2,"Athens, 23 Aug 2004",M,400m,201
+6,5,32.2,"Athens, 23 Aug 2004",M,400m,201
+7,6,32.2,"Athens, 23 Aug 2004",M,400m,201
+2,7,32.2,"Athens, 23 Aug 2004",M,400m,201
+1,8,32.2,"Athens, 23 Aug 2004",M,400m,201
+4,1,43.75,"Beijing, 21 Aug 2008",M,400m,201
+7,2,31.7,"Beijing, 21 Aug 2008",M,400m,201
+9,3,31.7,"Beijing, 21 Aug 2008",M,400m,201
+5,4,31.7,"Beijing, 21 Aug 2008",M,400m,201
+6,5,31.7,"Beijing, 21 Aug 2008",M,400m,201
+8,6,31.7,"Beijing, 21 Aug 2008",M,400m,201
+2,7,31.7,"Beijing, 21 Aug 2008",M,400m,201
+3,8,31.7,"Beijing, 21 Aug 2008",M,400m,201
+5,1,43.94,"London, 6 Aug 2012",M,400m,202
+7,2,32.0,"London, 6 Aug 2012",M,400m,202
+4,3,32.0,"London, 6 Aug 2012",M,400m,202
+6,4,32.0,"London, 6 Aug 2012",M,400m,202
+9,5,32.0,"London, 6 Aug 2012",M,400m,202
+2,6,32.0,"London, 6 Aug 2012",M,400m,202
+8,7,32.0,"London, 6 Aug 2012",M,400m,202
+3,8,32.0,"London, 6 Aug 2012",M,400m,202
+8,1,43.03,"Rio de Janeiro, 14 Aug 2016",M,400m,202
+6,2,43.76,"Rio de Janeiro, 14 Aug 2016",M,400m,202
+5,3,43.85,"Rio de Janeiro, 14 Aug 2016",M,400m,202
+3,4,44.01,"Rio de Janeiro, 14 Aug 2016",M,400m,202
+1,5,44.25,"Rio de Janeiro, 14 Aug 2016",M,400m,202
+2,6,44.36,"Rio de Janeiro, 14 Aug 2016",M,400m,202
+4,7,31.0,"Rio de Janeiro, 14 Aug 2016",M,400m,202
+7,8,31.0,"Rio de Janeiro, 14 Aug 2016",M,400m,202
+4,1,53.0,"St. Louis, 31 Aug 1904",M,400mH,248
+2,2,53.0,"St. Louis, 31 Aug 1904",M,400mH,248
+1,3,55.0,"St. Louis, 31 Aug 1904",M,400mH,248
+3,4,55.0,"St. Louis, 31 Aug 1904",M,400mH,248
+4,1,55.0,"London, 22 Jul 1908",M,400mH,248
+3,2,55.0,"London, 22 Jul 1908",M,400mH,248
+2,3,55.0,"London, 22 Jul 1908",M,400mH,248
+1,4,55.0,"London, 22 Jul 1908",M,400mH,248
+3,1,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
+5,2,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
+2,3,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
+4,4,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
+1,5,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
+6,6,54.0,"Antwerp, 16 Aug 1920",M,400mH,248
+1,1,52.6,"Paris, 7 Jul 1924",M,400mH,248
+5,2,53.8,"Paris, 7 Jul 1924",M,400mH,248
+4,3,54.2,"Paris, 7 Jul 1924",M,400mH,248
+3,4,56.2,"Paris, 7 Jul 1924",M,400mH,249
+2,4,DQ,"Paris, 7 Jul 1924",M,400mH,249
+6,4,DQ,"Paris, 7 Jul 1924",M,400mH,249
+5,1,DQ,"Amsterdam, 30 Jul 1928",M,400mH,249
+1,2,DQ,"Amsterdam, 30 Jul 1928",M,400mH,249
+3,3,DQ,"Amsterdam, 30 Jul 1928",M,400mH,249
+2,4,51.7,"Amsterdam, 30 Jul 1928",M,400mH,249
+6,5,51.7,"Amsterdam, 30 Jul 1928",M,400mH,249
+4,6,51.7,"Amsterdam, 30 Jul 1928",M,400mH,249
+3,1,51.7,"Los Angeles, 1 Aug 1932",M,400mH,249
+6,2,51.9,"Los Angeles, 1 Aug 1932",M,400mH,249
+4,3,52.0,"Los Angeles, 1 Aug 1932",M,400mH,249
+5,4,52.2,"Los Angeles, 1 Aug 1932",M,400mH,249
+2,5,53.0,"Los Angeles, 1 Aug 1932",M,400mH,249
+1,6,54.6,"Los Angeles, 1 Aug 1932",M,400mH,249
+6,1,52.4,"Berlin, 4 Aug 1936",M,400mH,249
+3,2,52.7,"Berlin, 4 Aug 1936",M,400mH,249
+5,3,52.8,"Berlin, 4 Aug 1936",M,400mH,249
+1,4,53.0,"Berlin, 4 Aug 1936",M,400mH,249
+4,5,54.0,"Berlin, 4 Aug 1936",M,400mH,249
+2,6,54.2,"Berlin, 4 Aug 1936",M,400mH,249
+3,1,0.00,"London, 31 Jul 1948",M,400mH,249
+5,2,0.00,"London, 31 Jul 1948",M,400mH,249
+6,3,0.00,"London, 31 Jul 1948",M,400mH,249
+4,4,0.00,"London, 31 Jul 1948",M,400mH,249
+1,5,0.00,"London, 31 Jul 1948",M,400mH,249
+2,6,0.00,"London, 31 Jul 1948",M,400mH,249
+6,1,50.8,"Helsinki, 21 Jul 1952",M,400mH,250
+1,2,51.3,"Helsinki, 21 Jul 1952",M,400mH,250
+3,3,52.2,"Helsinki, 21 Jul 1952",M,400mH,250
+2,4,52.8,"Helsinki, 21 Jul 1952",M,400mH,250
+5,5,53.1,"Helsinki, 21 Jul 1952",M,400mH,250
+4,6,54.4,"Helsinki, 21 Jul 1952",M,400mH,250
+4,1,50.1,"Melbourne, 24 Nov 1956",M,400mH,250
+2,2,50.8,"Melbourne, 24 Nov 1956",M,400mH,250
+1,3,51.6,"Melbourne, 24 Nov 1956",M,400mH,250
+5,4,51.7,"Melbourne, 24 Nov 1956",M,400mH,250
+6,5,51.8,"Melbourne, 24 Nov 1956",M,400mH,250
+3,6,56.0,"Melbourne, 24 Nov 1956",M,400mH,250
+6,1,49.3,"Rome, 2 Sep 1960",M,400mH,250
+5,2,49.6,"Rome, 2 Sep 1960",M,400mH,250
+1,3,49.7,"Rome, 2 Sep 1960",M,400mH,250
+2,4,49.9,"Rome, 2 Sep 1960",M,400mH,250
+4,4,50.8,"Rome, 2 Sep 1960",M,400mH,250
+3,6,51.0,"Rome, 2 Sep 1960",M,400mH,250
+6,1,49.6,"Tokyo, 16 Oct 1964",M,400mH,250
+4,2,50.1,"Tokyo, 16 Oct 1964",M,400mH,250
+8,3,50.1,"Tokyo, 16 Oct 1964",M,400mH,250
+2,4,50.4,"Tokyo, 16 Oct 1964",M,400mH,250
+3,5,50.5,"Tokyo, 16 Oct 1964",M,400mH,250
+7,6,50.7,"Tokyo, 16 Oct 1964",M,400mH,250
+1,7,51.1,"Tokyo, 16 Oct 1964",M,400mH,250
+5,8,51.4,"Tokyo, 16 Oct 1964",M,400mH,250
+6,1,48.1,"Mexico City, 15 Oct 1968",M,400mH,250
+2,2,49.0,"Mexico City, 15 Oct 1968",M,400mH,250
+8,3,49.0,"Mexico City, 15 Oct 1968",M,400mH,250
+3,4,49.0,"Mexico City, 15 Oct 1968",M,400mH,250
+5,5,49.1,"Mexico City, 15 Oct 1968",M,400mH,250
+7,6,49.2,"Mexico City, 15 Oct 1968",M,400mH,250
+1,7,49.2,"Mexico City, 15 Oct 1968",M,400mH,250
+4,8,50.1,"Mexico City, 15 Oct 1968",M,400mH,250
+1,1,47.82,"Munich, 2 Sep 1972",M,400mH,251
+6,2,48.51,"Munich, 2 Sep 1972",M,400mH,251
+5,3,48.52,"Munich, 2 Sep 1972",M,400mH,251
+4,4,48.64,"Munich, 2 Sep 1972",M,400mH,251
+7,5,49.65,"Munich, 2 Sep 1972",M,400mH,251
+2,6,49.66,"Munich, 2 Sep 1972",M,400mH,251
+8,6,49.66,"Munich, 2 Sep 1972",M,400mH,251
+3,8,50.25,"Munich, 2 Sep 1972",M,400mH,251
+4,1,47.63,"Montreal, 25 Jul 1976",M,400mH,251
+1,2,48.69,"Montreal, 25 Jul 1976",M,400mH,251
+8,3,49.45,"Montreal, 25 Jul 1976",M,400mH,251
+7,4,49.86,"Montreal, 25 Jul 1976",M,400mH,251
+3,5,49.94,"Montreal, 25 Jul 1976",M,400mH,251
+2,6,50.03,"Montreal, 25 Jul 1976",M,400mH,251
+6,7,50.19,"Montreal, 25 Jul 1976",M,400mH,251
+5,8,51.29,"Montreal, 25 Jul 1976",M,400mH,251
+8,1,48.70,"Moscow, 26 Jul 1980",M,400mH,251
+2,2,48.86,"Moscow, 26 Jul 1980",M,400mH,251
+1,3,49.11,"Moscow, 26 Jul 1980",M,400mH,251
+4,4,49.34,"Moscow, 26 Jul 1980",M,400mH,251
+5,5,49.67,"Moscow, 26 Jul 1980",M,400mH,251
+7,6,49.84,"Moscow, 26 Jul 1980",M,400mH,251
+6,7,50.00,"Moscow, 26 Jul 1980",M,400mH,251
+3,8,56.35,"Moscow, 26 Jul 1980",M,400mH,251
+6,1,47.75,"Los Angeles, 5 Aug 1984",M,400mH,251
+4,2,48.13,"Los Angeles, 5 Aug 1984",M,400mH,251
+5,3,48.19,"Los Angeles, 5 Aug 1984",M,400mH,251
+3,4,48.97,"Los Angeles, 5 Aug 1984",M,400mH,251
+7,5,49.28,"Los Angeles, 5 Aug 1984",M,400mH,251
+1,6,49.42,"Los Angeles, 5 Aug 1984",M,400mH,251
+8,7,50.69,"Los Angeles, 5 Aug 1984",M,400mH,251
+2,8,53.78,"Los Angeles, 5 Aug 1984",M,400mH,251
+6,1,47.19,"Seoul, 25 Sep 1988",M,400mH,252
+5,2,47.23,"Seoul, 25 Sep 1988",M,400mH,252
+3,3,47.56,"Seoul, 25 Sep 1988",M,400mH,252
+2,4,47.94,"Seoul, 25 Sep 1988",M,400mH,252
+4,5,48.04,"Seoul, 25 Sep 1988",M,400mH,252
+7,6,48.69,"Seoul, 25 Sep 1988",M,400mH,252
+1,7,48.76,"Seoul, 25 Sep 1988",M,400mH,252
+8,8,48.78,"Seoul, 25 Sep 1988",M,400mH,252
+4,1,46.78,"Barcelona, 6 Aug 1992",M,400mH,252
+3,2,47.66,"Barcelona, 6 Aug 1992",M,400mH,252
+5,3,47.82,"Barcelona, 6 Aug 1992",M,400mH,252
+6,4,48.13,"Barcelona, 6 Aug 1992",M,400mH,252
+8,5,48.63,"Barcelona, 6 Aug 1992",M,400mH,252
+2,6,48.63,"Barcelona, 6 Aug 1992",M,400mH,252
+1,7,48.86,"Barcelona, 6 Aug 1992",M,400mH,252
+7,8,49.26,"Barcelona, 6 Aug 1992",M,400mH,252
+6,1,47.54,"Atlanta, 1 Aug 1996",M,400mH,252
+1,2,47.78,"Atlanta, 1 Aug 1996",M,400mH,252
+5,3,47.96,"Atlanta, 1 Aug 1996",M,400mH,252
+4,4,47.98,"Atlanta, 1 Aug 1996",M,400mH,252
+8,5,48.30,"Atlanta, 1 Aug 1996",M,400mH,252
+7,6,48.41,"Atlanta, 1 Aug 1996",M,400mH,252
+3,7,48.57,"Atlanta, 1 Aug 1996",M,400mH,252
+2,8,48.78,"Atlanta, 1 Aug 1996",M,400mH,252
+1,1,47.50,"Sydney, 27 Sep 2000",M,400mH,252
+4,2,47.53,"Sydney, 27 Sep 2000",M,400mH,252
+6,3,47.81,"Sydney, 27 Sep 2000",M,400mH,252
+5,4,48.04,"Sydney, 27 Sep 2000",M,400mH,252
+8,5,48.34,"Sydney, 27 Sep 2000",M,400mH,252
+2,6,48.44,"Sydney, 27 Sep 2000",M,400mH,252
+3,7,48.78,"Sydney, 27 Sep 2000",M,400mH,252
+7,8,49.01,"Sydney, 27 Sep 2000",M,400mH,252
+6,1,47.63,"Athens, 26 Aug 2004",M,400mH,252
+5,2,48.11,"Athens, 26 Aug 2004",M,400mH,252
+7,3,48.26,"Athens, 26 Aug 2004",M,400mH,252
+4,4,48.58,"Athens, 26 Aug 2004",M,400mH,252
+2,5,48.74,"Athens, 26 Aug 2004",M,400mH,252
+3,6,49.00,"Athens, 26 Aug 2004",M,400mH,252
+1,7,49.07,"Athens, 26 Aug 2004",M,400mH,252
+8,8,49.51,"Athens, 26 Aug 2004",M,400mH,252
+6,1,47.25,"Beijing, 18 Aug 2008",M,400mH,253
+4,2,47.98,"Beijing, 18 Aug 2008",M,400mH,253
+7,3,48.06,"Beijing, 18 Aug 2008",M,400mH,253
+5,4,48.30,"Beijing, 18 Aug 2008",M,400mH,253
+8,5,48.42,"Beijing, 18 Aug 2008",M,400mH,253
+3,6,48.52,"Beijing, 18 Aug 2008",M,400mH,253
+9,7,48.60,"Beijing, 18 Aug 2008",M,400mH,253
+2,8,49.96,"Beijing, 18 Aug 2008",M,400mH,253
+7,1,47.63,"London, 6 Aug 2012",M,400mH,253
+6,2,47.91,"London, 6 Aug 2012",M,400mH,253
+5,3,48.10,"London, 6 Aug 2012",M,400mH,253
+3,4,48.24,"London, 6 Aug 2012",M,400mH,253
+4,5,48.25,"London, 6 Aug 2012",M,400mH,253
+8,6,48.86,"London, 6 Aug 2012",M,400mH,253
+9,7,49.12,"London, 6 Aug 2012",M,400mH,253
+2,8,49.15,"London, 6 Aug 2012",M,400mH,253
+5,1,47.73,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
+7,2,47.78,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
+2,3,47.92,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
+4,4,47.97,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
+6,5,48.07,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
+1,6,48.40,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
+8,7,49.09,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
+3,7,DQ,"Rio de Janeiro, 18 Aug 2016",M,400mH,253
+2,1,42.4,"Stockholm, 9 Jul 1912",M,4x100m,332
+3,2,42.6,"Stockholm, 9 Jul 1912",M,4x100m,332
+1,2,DQ,"Stockholm, 9 Jul 1912",M,4x100m,332
+6,1,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
+2,2,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
+5,3,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
+4,4,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
+1,5,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
+3,6,42.2,"Antwerp, 22 Aug 1920",M,4x100m,333
+1,1,41.0,"Paris, 13 Jul 1924",M,4x100m,333
+4,2,41.2,"Paris, 13 Jul 1924",M,4x100m,333
+2,3,41.8,"Paris, 13 Jul 1924",M,4x100m,333
+6,4,42.0,"Paris, 13 Jul 1924",M,4x100m,333
+3,5,42.2,"Paris, 13 Jul 1924",M,4x100m,333
+5,5,DQ,"Paris, 13 Jul 1924",M,4x100m,333
+1,1,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
+4,2,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
+2,3,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
+6,4,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
+5,5,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
+3,5,DQ,"Amsterdam, 5 Aug 1928",M,4x100m,333
+1,1,40.0,"Los Angeles, 7 Aug 1932",M,4x100m,333
+4,2,40.9,"Los Angeles, 7 Aug 1932",M,4x100m,333
+2,3,41.2,"Los Angeles, 7 Aug 1932",M,4x100m,333
+3,4,41.3,"Los Angeles, 7 Aug 1932",M,4x100m,333
+5,5,41.3,"Los Angeles, 7 Aug 1932",M,4x100m,333
+6,6,41.4,"Los Angeles, 7 Aug 1932",M,4x100m,333
+4,1,39.8,"Berlin, 9 Aug 1936",M,4x100m,333
+5,2,41.1,"Berlin, 9 Aug 1936",M,4x100m,333
+2,3,41.2,"Berlin, 9 Aug 1936",M,4x100m,333
+1,4,42.2,"Berlin, 9 Aug 1936",M,4x100m,333
+6,5,42.7,"Berlin, 9 Aug 1936",M,4x100m,333
+3,3,DQ,"Berlin, 9 Aug 1936",M,4x100m,333
+3,1,0.00,"London, 7 Aug 1948",M,4x100m,334
+4,2,0.00,"London, 7 Aug 1948",M,4x100m,334
+5,3,0.00,"London, 7 Aug 1948",M,4x100m,334
+1,4,0.00,"London, 7 Aug 1948",M,4x100m,334
+6,5,0.00,"London, 7 Aug 1948",M,4x100m,334
+2,6,0.00,"London, 7 Aug 1948",M,4x100m,334
+3,1,40.1,"Helsinki, 27 Jul 1952",M,4x100m,334
+4,2,40.3,"Helsinki, 27 Jul 1952",M,4x100m,334
+5,2,40.5,"Helsinki, 27 Jul 1952",M,4x100m,334
+2,2,40.6,"Helsinki, 27 Jul 1952",M,4x100m,334
+7,6,40.9,"Helsinki, 27 Jul 1952",M,4x100m,334
+6,6,41.2,"Helsinki, 27 Jul 1952",M,4x100m,334
+6,1,39.5,"Melbourne, 1 Dec 1956",M,4x100m,334
+4,2,39.8,"Melbourne, 1 Dec 1956",M,4x100m,334
+1,3,40.3,"Melbourne, 1 Dec 1956",M,4x100m,334
+3,4,40.3,"Melbourne, 1 Dec 1956",M,4x100m,334
+2,5,40.6,"Melbourne, 1 Dec 1956",M,4x100m,334
+5,6,40.6,"Melbourne, 1 Dec 1956",M,4x100m,334
+5,1,39.5,"Rome, 8 Sep 1960",M,4x100m,334
+4,2,40.1,"Rome, 8 Sep 1960",M,4x100m,334
+6,3,40.2,"Rome, 8 Sep 1960",M,4x100m,334
+3,4,40.2,"Rome, 8 Sep 1960",M,4x100m,334
+2,5,40.7,"Rome, 8 Sep 1960",M,4x100m,334
+1,1,DQ,"Rome, 8 Sep 1960",M,4x100m,334
+7,1,39.0,"Tokyo, 21 Oct 1964",M,4x100m,335
+6,2,39.3,"Tokyo, 21 Oct 1964",M,4x100m,335
+2,3,39.3,"Tokyo, 21 Oct 1964",M,4x100m,335
+4,4,39.4,"Tokyo, 21 Oct 1964",M,4x100m,335
+8,5,39.4,"Tokyo, 21 Oct 1964",M,4x100m,335
+5,6,39.5,"Tokyo, 21 Oct 1964",M,4x100m,335
+3,7,39.5,"Tokyo, 21 Oct 1964",M,4x100m,335
+1,8,39.6,"Tokyo, 21 Oct 1964",M,4x100m,335
+2,1,38.2,"Mexico City, 20 Oct 1968",M,4x100m,335
+1,2,38.3,"Mexico City, 20 Oct 1968",M,4x100m,335
+8,3,38.4,"Mexico City, 20 Oct 1968",M,4x100m,335
+5,4,38.4,"Mexico City, 20 Oct 1968",M,4x100m,335
+4,5,38.6,"Mexico City, 20 Oct 1968",M,4x100m,335
+7,6,38.7,"Mexico City, 20 Oct 1968",M,4x100m,335
+6,7,39.2,"Mexico City, 20 Oct 1968",M,4x100m,335
+3,8,39.2,"Mexico City, 20 Oct 1968",M,4x100m,335
+1,1,38.19,"Munich, 10 Sep 1972",M,4x100m,335
+4,2,38.50,"Munich, 10 Sep 1972",M,4x100m,335
+7,3,38.79,"Munich, 10 Sep 1972",M,4x100m,335
+8,4,38.82,"Munich, 10 Sep 1972",M,4x100m,335
+6,5,38.90,"Munich, 10 Sep 1972",M,4x100m,335
+5,6,39.03,"Munich, 10 Sep 1972",M,4x100m,335
+3,7,39.14,"Munich, 10 Sep 1972",M,4x100m,335
+2,8,39.14,"Munich, 10 Sep 1972",M,4x100m,335
+2,1,38.33,"Montreal, 31 Jul 1976",M,4x100m,336
+1,2,38.66,"Montreal, 31 Jul 1976",M,4x100m,336
+7,3,38.78,"Montreal, 31 Jul 1976",M,4x100m,336
+3,4,38.83,"Montreal, 31 Jul 1976",M,4x100m,336
+4,5,39.01,"Montreal, 31 Jul 1976",M,4x100m,336
+5,6,39.08,"Montreal, 31 Jul 1976",M,4x100m,336
+8,7,39.16,"Montreal, 31 Jul 1976",M,4x100m,336
+6,8,39.47,"Montreal, 31 Jul 1976",M,4x100m,336
+6,1,38.26,"Moscow, 1 Aug 1980",M,4x100m,336
+1,2,38.33,"Moscow, 1 Aug 1980",M,4x100m,336
+2,3,38.53,"Moscow, 1 Aug 1980",M,4x100m,336
+5,4,38.62,"Moscow, 1 Aug 1980",M,4x100m,336
+8,5,38.73,"Moscow, 1 Aug 1980",M,4x100m,336
+3,6,38.99,"Moscow, 1 Aug 1980",M,4x100m,336
+7,7,39.12,"Moscow, 1 Aug 1980",M,4x100m,336
+4,8,39.54,"Moscow, 1 Aug 1980",M,4x100m,336
+5,1,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
+1,2,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
+6,3,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
+3,4,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
+2,5,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
+7,6,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
+4,7,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
+8,8,8.94,"Los Angeles, 11 Aug 1984",M,4x100m,336
+4,1,38.19,"Seoul, 1 Oct 1988",M,4x100m,336
+3,2,38.28,"Seoul, 1 Oct 1988",M,4x100m,336
+6,3,38.40,"Seoul, 1 Oct 1988",M,4x100m,336
+7,4,38.47,"Seoul, 1 Oct 1988",M,4x100m,336
+5,5,38.54,"Seoul, 1 Oct 1988",M,4x100m,336
+2,6,38.55,"Seoul, 1 Oct 1988",M,4x100m,336
+1,7,38.93,"Seoul, 1 Oct 1988",M,4x100m,336
+8,8,39.19,"Seoul, 1 Oct 1988",M,4x100m,336
+4,1,37.40,"Barcelona, 8 Aug 1992",M,4x100m,337
+5,2,37.98,"Barcelona, 8 Aug 1992",M,4x100m,337
+3,3,38.00,"Barcelona, 8 Aug 1992",M,4x100m,337
+6,4,38.08,"Barcelona, 8 Aug 1992",M,4x100m,337
+8,5,38.17,"Barcelona, 8 Aug 1992",M,4x100m,337
+7,6,38.77,"Barcelona, 8 Aug 1992",M,4x100m,337
+1,7,39.30,"Barcelona, 8 Aug 1992",M,4x100m,337
+2,8,39.31,"Barcelona, 8 Aug 1992",M,4x100m,337
+6,1,37.69,"Atlanta, 3 Aug 1996",M,4x100m,337
+4,2,38.05,"Atlanta, 3 Aug 1996",M,4x100m,337
+3,3,38.41,"Atlanta, 3 Aug 1996",M,4x100m,337
+7,4,38.55,"Atlanta, 3 Aug 1996",M,4x100m,337
+2,5,38.67,"Atlanta, 3 Aug 1996",M,4x100m,337
+5,6,39.39,"Atlanta, 3 Aug 1996",M,4x100m,337
+8,6,DNF,"Atlanta, 3 Aug 1996",M,4x100m,337
+1,6,DQ,"Atlanta, 3 Aug 1996",M,4x100m,337
+5,1,37.61,"Sydney, 30 September 2000",M,4x100m,337
+4,2,37.90,"Sydney, 30 September 2000",M,4x100m,337
+3,3,38.04,"Sydney, 30 September 2000",M,4x100m,337
+6,4,38.20,"Sydney, 30 September 2000",M,4x100m,337
+7,5,38.49,"Sydney, 30 September 2000",M,4x100m,337
+2,6,38.66,"Sydney, 30 September 2000",M,4x100m,337
+8,7,38.67,"Sydney, 30 September 2000",M,4x100m,337
+1,8,38.96,"Sydney, 30 September 2000",M,4x100m,337
+3,1,38.07,"Athens, 28 Aug 2004",M,4x100m,338
+5,2,38.08,"Athens, 28 Aug 2004",M,4x100m,338
+4,3,38.23,"Athens, 28 Aug 2004",M,4x100m,338
+7,4,38.49,"Athens, 28 Aug 2004",M,4x100m,338
+6,5,38.54,"Athens, 28 Aug 2004",M,4x100m,338
+1,6,38.56,"Athens, 28 Aug 2004",M,4x100m,338
+8,7,38.60,"Athens, 28 Aug 2004",M,4x100m,338
+2,8,38.67,"Athens, 28 Aug 2004",M,4x100m,338
+4,1,38.06,"Beijing, 22 Aug 2008",M,4x100m,338
+7,2,38.15,"Beijing, 22 Aug 2008",M,4x100m,338
+3,3,38.24,"Beijing, 22 Aug 2008",M,4x100m,338
+9,4,38.58,"Beijing, 22 Aug 2008",M,4x100m,338
+6,5,38.66,"Beijing, 22 Aug 2008",M,4x100m,338
+8,7,DQ,"Beijing, 22 Aug 2008",M,4x100m,338
+2,7,DQ,"Beijing, 22 Aug 2008",M,4x100m,338
+5,1,DQ,"Beijing, 22 Aug 2008",M,4x100m,338
+6,1,37.31,"London, 11 Aug 2012",M,4x100m,338
+9,2,37.31,"London, 11 Aug 2012",M,4x100m,338
+3,3,38.16,"London, 11 Aug 2012",M,4x100m,338
+4,4,38.35,"London, 11 Aug 2012",M,4x100m,338
+8,5,38.39,"London, 11 Aug 2012",M,4x100m,338
+2,6,38.43,"London, 11 Aug 2012",M,4x100m,338
+7,2,DQ,"London, 11 Aug 2012",M,4x100m,338
+5,3,DQ,"London, 11 Aug 2012",M,4x100m,338
+4,1,37.27,"Rio de Janeiro, 19 Aug 2016",M,4x100m,339
+5,2,37.60,"Rio de Janeiro, 19 Aug 2016",M,4x100m,339
+7,3,37.64,"Rio de Janeiro, 19 Aug 2016",M,4x100m,339
+6,4,37.90,"Rio de Janeiro, 19 Aug 2016",M,4x100m,339
+1,5,37.98,"Rio de Janeiro, 19 Aug 2016",M,4x100m,339
+2,6,38.41,"Rio de Janeiro, 19 Aug 2016",M,4x100m,339
+3,3,DQ,"Rio de Janeiro, 19 Aug 2016",M,4x100m,339
+8,7,DQ,"Rio de Janeiro, 19 Aug 2016",M,4x100m,339

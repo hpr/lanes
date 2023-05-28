@@ -19,14 +19,22 @@ const wins: {
   overall: {},
 };
 
+const evtCats = {
+  '400m': '1-lap',
+  '4x100m': '1-lap',
+  '400mH': '1-lap',
+  '200m': '1/2-lap'
+}
+
 // see: Athens 1997 F 400m (283), Beijing 2015 M 400mH (169), London 2017 F 400mH (332)
 for (const race in races) {
   const evt = race.split(' ').at(-1) ?? '';
+  const evtCat = evtCats[evt];
   const winningLane = races[race].sort((a, b) => +a.place - +b.place)[0].lane;
   // if (+winningLane === 9) console.log(races[race].at(0))
-  wins[evt] ??= {};
-  wins[evt][winningLane] ??= 0;
-  wins[evt][winningLane]++;
+  wins[evtCat] ??= {};
+  wins[evtCat][winningLane] ??= 0;
+  wins[evtCat][winningLane]++;
   wins.overall[winningLane] ??= 0;
   wins.overall[winningLane]++;
 }
