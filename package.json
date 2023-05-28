@@ -1,0 +1,21 @@
+{
+  "name": "lanes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fetchStats": "wget https://iaafmedia.s3.amazonaws.com/misc/Oregon22/Oregon%20stats%20book.pdf",
+    "getLanes": "export NAME=getLanes && tsc --module nodenext --outDir build $NAME.mts && node build/$NAME.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^6.4.0",
+    "pdfjs-dist": "^3.6.172",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5"
+  }
+}
