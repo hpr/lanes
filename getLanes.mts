@@ -4,15 +4,14 @@ import { stringify } from 'csv-stringify/sync';
 import fs from 'fs';
 import { LaneInfo } from './types.mjs';
 
-const evts = ['200m', '400m', '400mH', '4x100m'] as const;
-const deny = ['4x400m'];
+const evts = ['100m', '200m', '400m', '400mH', '4x100m'] as const;
+const deny = ['4x400m', '4x100m'];
 
 const MIDPOINT_X = 290;
 const CHAMPS_HEIGHT = 12;
 const X = 4;
 const Y = 5;
 // origin = bottom left
-const CUTOFF_YEAR = 1952;
 
 const deltaSort = (xPos: number, yPos: number) => (a: TextItem, b: TextItem) => {
   const aXpos = a.transform[X];
@@ -43,7 +42,7 @@ for (const { docName, range, hdrText } of [
   const doc = await PDFJS.getDocument(docName).promise;
   let prevPageItems: TextItem[] = [];
   for (let pageNo = range[0]; pageNo <= range[1]; pageNo++) {
-    // if (pageNo !== 112) continue; // 106, 116, 111 (wrap), 114, 112
+    // if (pageNo !== 100) continue; // 106, 116, 111 (wrap), 114, 112, 100 (rt)
     const page = await doc.getPage(pageNo);
     const { items } = (await page.getTextContent()) as { items: TextItem[] };
     const header = items
@@ -51,22 +50,28 @@ for (const { docName, range, hdrText } of [
       .map((item) => item.str)
       .join('')
       .replaceAll(' ', '');
-
     if (header.includes(hdrText) && evts.some((evt) => header.includes(evt)) && !deny.some((evt) => header.includes(evt))) {
       const evt = evts.findLast((evt) => header.includes(evt));
       const sex = header.includes('WOMEN') ? 'F' : 'M';
       const lanes = items.filter((item) => item.str.match(/\|\d\|/));
       const places = items.filter((item) => item.str.match(/^\(?=?\d,\)?$/));
       const times = items.filter(
-        (item) => (item.str.length >= 3 && item.str.match(/^[\d\.:]+$/)) || item.str === 'DQ' || item.str === 'DNF' || item.str === 'DNS'
+        (item) =>
+          (item.str.length >= 3 && item.str.match(/^[\d\.:]+$/) && +item.str.replaceAll(':', '') > 9) ||
+          item.str === 'DQ' ||
+          item.str === 'DNF' ||
+          item.str === 'DNS'
       );
+      const reactions = items.filter((item) => item.str.trim().length === 5 && item.str.trim().match(/^\d\.\d\d\d$/));
       const champs = items.filter(isChamp);
-      for (const lane of lanes) {
-        const xPos = lane.transform[X];
-        const yPos = lane.transform[Y];
-        const matchingPlace = places.sort(deltaSort(xPos, yPos))[0];
-        const matchingTime = times
-          .filter((t) => t.transform[X] > xPos && Math.abs(t.transform[Y] - matchingPlace.transform[Y]) < 5)
+      for (const place of places) {
+        const xPos = place.transform[X];
+        const yPos = place.transform[Y];
+        const matchingLane = lanes.filter((l) => l.transform[X] > xPos && Math.abs(l.transform[Y] - place.transform[Y]) < 5)[0];
+        // const matchingPlace = places.sort(deltaSort(xPos, yPos))[0];
+        const matchingTime = times.filter((t) => t.transform[X] > xPos && Math.abs(t.transform[Y] - place.transform[Y]) < 5).sort(deltaSort(xPos, yPos))[0];
+        const matchingReaction = reactions
+          .filter((r) => r.transform[X] > xPos && Math.abs(r.transform[Y] - place.transform[Y]) < 5)
           .sort(deltaSort(xPos, yPos))[0];
         let matchingChamp: TextItem | undefined = undefined;
         const leftSide = xPos < MIDPOINT_X;
@@ -89,12 +94,13 @@ for (const { docName, range, hdrText } of [
             matchingChamp = prevChamps.filter((champ) => champ.transform[X] < MIDPOINT_X).sort((a, b) => a.transform[Y] - b.transform[Y])[0];
           }
         }
-        if (+(matchingChamp.str.split(' ').at(-1) ?? 0) < CUTOFF_YEAR) continue;
+        // if (+(matchingChamp.str.split(' ').at(-1) ?? 0) < CUTOFF_YEAR) continue;
         laneInfos.push({
-          lane: +lane.str.replace(/[^\d]/g, ''),
-          place: +matchingPlace.str.replace(/[^\d]/g, ''),
+          lane: matchingLane?.str.replace(/[^\d]/g, '') ?? '',
+          place: +place.str.replace(/[^\d]/g, ''),
           time: matchingTime?.str ?? '',
-          champs: matchingChamp.str,
+          reaction: matchingReaction?.str ?? '',
+          champs: matchingChamp?.str ?? '',
           sex,
           event: evt!,
           page: pageNo,

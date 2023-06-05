@@ -9,6 +9,8 @@ const groupBy = function <T>(arr: T[], cb: (x: T) => string): { [k: string]: T[]
   }, {});
 };
 
+const CUTOFF_YEAR = 1952;
+
 const laneInfos: Array<LaneInfo> = parse(fs.readFileSync('lanes.csv', 'utf-8'), { columns: true });
 
 const races = groupBy(laneInfos, ({ champs, sex, event }) => `${champs} ${sex} ${event}`);
